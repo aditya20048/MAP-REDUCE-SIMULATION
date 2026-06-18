@@ -1,0 +1,1500 @@
+2026-06-17 16:00:00 INFO Scheduled job billing-sync finished without errors
+2026-06-18 16:00:01 INFO Configuration reloaded successfully
+2026-06-16 16:00:02 WARN Retry attempt 4 for connection to notification-service
+2026-06-15 16:00:03 INFO User bob logged in successfully from 10.0.220.200
+2026-06-16 16:00:04 ERROR Null pointer exception in module PaymentValidator
+2026-06-18 16:00:05 INFO Configuration reloaded successfully
+2026-06-18 16:00:06 INFO Cache warmed for region eu-central
+2026-06-18 16:00:07 DEBUG Thread pool size adjusted to 3
+2026-06-17 16:00:08 INFO Cache warmed for region eu-central
+2026-06-16 16:00:09 FATAL Out of memory error, shutting down worker worker-8
+2026-06-16 16:01:10 ERROR Timeout waiting for response from service payment-gateway
+2026-06-16 16:01:11 INFO Cache warmed for region us-east
+2026-06-16 16:01:12 INFO Health check passed for service inventory-service
+2026-06-17 16:01:13 INFO Health check passed for service payment-gateway
+2026-06-15 16:01:14 INFO New session created for user erin
+2026-06-16 16:01:15 INFO Background worker worker-1 started processing queue
+2026-06-18 16:01:16 ERROR Authentication failed for user heidi from 10.0.253.168
+2026-06-18 16:01:17 DEBUG Cache lookup for key key-6916 returned miss
+2026-06-16 16:01:18 INFO Scheduled job index-rebuild finished without errors
+2026-06-15 16:01:19 INFO Request POST /api/v1/login completed in 2169 ms
+2026-06-15 16:02:20 ERROR Unable to acquire lock on resource lock-748
+2026-06-16 16:02:21 INFO Configuration reloaded successfully
+2026-06-17 16:02:22 ERROR Timeout waiting for response from service inventory-service
+2026-06-18 16:02:23 INFO Configuration reloaded successfully
+2026-06-18 16:02:24 INFO Request DELETE /api/v1/login completed in 3901 ms
+2026-06-17 16:02:25 INFO Request PUT /api/v1/checkout completed in 1862 ms
+2026-06-18 16:02:26 INFO Request DELETE /api/v1/products completed in 1333 ms
+2026-06-18 16:02:27 ERROR Failed to connect to database at db-replica-02
+2026-06-18 16:02:28 INFO Scheduled job cleanup finished without errors
+2026-06-15 16:02:29 INFO Request DELETE /api/v1/products completed in 1769 ms
+2026-06-18 16:03:30 INFO Cache warmed for region eu-central
+2026-06-16 16:03:31 WARN Disk usage on cache-node-03 approaching threshold
+2026-06-18 16:03:32 INFO Request DELETE /api/v1/products completed in 3966 ms
+2026-06-18 16:03:33 INFO User erin logged in successfully from 10.0.85.110
+2026-06-18 16:03:34 ERROR Failed to connect to database at db-primary-01
+2026-06-18 16:03:35 ERROR Authentication failed for user bob from 10.0.37.82
+2026-06-18 16:03:36 DEBUG Serialized response object for request /api/v1/orders
+2026-06-17 16:03:37 ERROR Null pointer exception in module InventorySync
+2026-06-18 16:03:38 INFO Cache warmed for region us-east
+2026-06-18 16:03:39 INFO Scheduled job cleanup finished without errors
+2026-06-17 16:04:40 INFO New session created for user erin
+2026-06-16 16:04:41 ERROR Authentication failed for user frank from 10.0.188.127
+2026-06-16 16:04:42 INFO New session created for user dave
+2026-06-17 16:04:43 INFO User grace logged in successfully from 10.0.132.166
+2026-06-18 16:04:44 DEBUG Cache lookup for key key-3178 returned hit
+2026-06-18 16:04:45 INFO Scheduled job report-gen finished without errors
+2026-06-18 16:04:46 INFO Configuration reloaded successfully
+2026-06-18 16:04:47 INFO Background worker worker-3 started processing queue
+2026-06-17 16:04:48 DEBUG Serialized response object for request /api/v1/users
+2026-06-18 16:04:49 ERROR Authentication failed for user dave from 10.0.77.72
+2026-06-18 16:05:50 ERROR Exception while processing request /api/v1/login from 10.0.184.192
+2026-06-18 16:05:51 DEBUG Entering method UserAuthHandler.process() with payload size 8383
+2026-06-17 16:05:52 INFO Background worker worker-4 started processing queue
+2026-06-16 16:05:53 INFO Background worker worker-8 started processing queue
+2026-06-16 16:05:54 INFO Health check passed for service auth-service
+2026-06-16 16:05:55 WARN Disk usage on db-replica-02 approaching threshold
+2026-06-15 16:05:56 INFO Health check passed for service auth-service
+2026-06-15 16:05:57 INFO User bob logged in successfully from 10.0.159.2
+2026-06-17 16:05:58 INFO User grace logged in successfully from 10.0.104.179
+2026-06-17 16:05:59 INFO Request PUT /api/v1/users completed in 3323 ms
+2026-06-15 16:06:00 WARN Disk usage on db-replica-02 approaching threshold
+2026-06-16 16:06:01 ERROR Failed to connect to database at db-primary-01
+2026-06-15 16:06:02 INFO Configuration reloaded successfully
+2026-06-16 16:06:03 INFO Cache warmed for region us-east
+2026-06-18 16:06:04 WARN Cache miss rate elevated for region ap-south
+2026-06-15 16:06:05 INFO User erin logged in successfully from 10.0.248.41
+2026-06-18 16:06:06 INFO Health check passed for service payment-gateway
+2026-06-17 16:06:07 WARN Disk usage on cache-node-03 approaching threshold
+2026-06-18 16:06:08 INFO Cache warmed for region ap-south
+2026-06-16 16:06:09 INFO Request POST /api/v1/products completed in 120 ms
+2026-06-17 16:07:10 DEBUG Thread pool size adjusted to 5
+2026-06-16 16:07:11 INFO Configuration reloaded successfully
+2026-06-17 16:07:12 INFO Cache warmed for region us-east
+2026-06-15 16:07:13 INFO Cache warmed for region us-east
+2026-06-16 16:07:14 INFO Scheduled job billing-sync finished without errors
+2026-06-17 16:07:15 WARN Disk usage on db-replica-02 approaching threshold
+2026-06-17 16:07:16 WARN Deprecated endpoint /api/v1/products called by client 10.0.161.236
+2026-06-15 16:07:17 ERROR Null pointer exception in module InventorySync
+2026-06-18 16:07:18 INFO Request GET /api/v1/products completed in 428 ms
+2026-06-18 16:07:19 INFO User bob logged in successfully from 10.0.111.38
+2026-06-18 16:08:20 INFO Cache warmed for region ap-south
+2026-06-15 16:08:21 ERROR Failed to connect to database at db-replica-02
+2026-06-18 16:08:22 WARN Cache miss rate elevated for region us-east
+2026-06-15 16:08:23 WARN Retry attempt 1 for connection to auth-service
+2026-06-15 16:08:24 INFO Health check passed for service notification-service
+2026-06-15 16:08:25 INFO Scheduled job report-gen finished without errors
+2026-06-18 16:08:26 INFO Configuration reloaded successfully
+2026-06-17 16:08:27 WARN Connection pool for notification-service running low on available connections
+2026-06-15 16:08:28 FATAL Out of memory error, shutting down worker worker-6
+2026-06-17 16:08:29 WARN Deprecated endpoint /api/v1/orders called by client 10.0.43.174
+2026-06-15 16:09:30 INFO User erin logged in successfully from 10.0.150.224
+2026-06-15 16:09:31 WARN Retry attempt 2 for connection to payment-gateway
+2026-06-17 16:09:32 INFO Configuration reloaded successfully
+2026-06-18 16:09:33 DEBUG Serialized response object for request /api/v1/products
+2026-06-17 16:09:34 INFO New session created for user erin
+2026-06-15 16:09:35 INFO Background worker worker-8 started processing queue
+2026-06-17 16:09:36 INFO User grace logged in successfully from 10.0.52.236
+2026-06-16 16:09:37 INFO User bob logged in successfully from 10.0.206.191
+2026-06-15 16:09:38 INFO Health check passed for service auth-service
+2026-06-18 16:09:39 INFO Configuration reloaded successfully
+2026-06-17 16:10:40 INFO New session created for user grace
+2026-06-15 16:10:41 WARN Cache miss rate elevated for region eu-central
+2026-06-15 16:10:42 ERROR Exception while processing request /api/v1/products from 10.0.28.84
+2026-06-18 16:10:43 ERROR Authentication failed for user alice from 10.0.20.243
+2026-06-18 16:10:44 DEBUG Entering method PaymentValidator.process() with payload size 2207
+2026-06-18 16:10:45 WARN Retry attempt 3 for connection to billing-service
+2026-06-17 16:10:46 INFO Cache warmed for region ap-south
+2026-06-16 16:10:47 ERROR Failed to connect to database at cache-node-03
+2026-06-17 16:10:48 INFO New session created for user frank
+2026-06-17 16:10:49 INFO User dave logged in successfully from 10.0.229.86
+2026-06-16 16:11:50 ERROR Null pointer exception in module InventorySync
+2026-06-18 16:11:51 DEBUG Serialized response object for request /api/v1/products
+2026-06-15 16:11:52 ERROR Timeout waiting for response from service inventory-service
+2026-06-15 16:11:53 INFO Request GET /api/v1/products completed in 2676 ms
+2026-06-17 16:11:54 INFO Configuration reloaded successfully
+2026-06-16 16:11:55 INFO User erin logged in successfully from 10.0.62.160
+2026-06-16 16:11:56 INFO Configuration reloaded successfully
+2026-06-17 16:11:57 INFO User dave logged in successfully from 10.0.39.157
+2026-06-18 16:11:58 DEBUG Entering method OrderProcessor.process() with payload size 5016
+2026-06-16 16:11:59 INFO New session created for user carol
+2026-06-17 16:12:00 FATAL Out of memory error, shutting down worker worker-6
+2026-06-18 16:12:01 ERROR Failed to connect to database at db-replica-02
+2026-06-17 16:12:02 INFO New session created for user erin
+2026-06-17 16:12:03 DEBUG Cache lookup for key key-7268 returned hit
+2026-06-17 16:12:04 ERROR Unable to acquire lock on resource lock-130
+2026-06-18 16:12:05 ERROR Unable to acquire lock on resource lock-933
+2026-06-15 16:12:06 WARN Disk usage on app-server-04 approaching threshold
+2026-06-16 16:12:07 INFO Background worker worker-4 started processing queue
+2026-06-16 16:12:08 INFO Cache warmed for region us-east
+2026-06-15 16:12:09 DEBUG Serialized response object for request /api/v1/login
+2026-06-17 16:13:10 INFO User dave logged in successfully from 10.0.54.98
+2026-06-15 16:13:11 DEBUG Serialized response object for request /api/v1/products
+2026-06-17 16:13:12 INFO Background worker worker-8 started processing queue
+2026-06-15 16:13:13 INFO Background worker worker-8 started processing queue
+2026-06-18 16:13:14 DEBUG Thread pool size adjusted to 5
+2026-06-18 16:13:15 INFO Cache warmed for region us-west
+2026-06-16 16:13:16 WARN Deprecated endpoint /api/v1/checkout called by client 10.0.172.134
+2026-06-16 16:13:17 INFO Scheduled job billing-sync finished without errors
+2026-06-17 16:13:18 WARN Slow query detected on table orders taking 1309 ms
+2026-06-15 16:13:19 ERROR Unable to acquire lock on resource lock-174
+2026-06-18 16:14:20 WARN Cache miss rate elevated for region ap-south
+2026-06-16 16:14:21 INFO Background worker worker-7 started processing queue
+2026-06-17 16:14:22 DEBUG Entering method InventorySync.process() with payload size 2573
+2026-06-15 16:14:23 DEBUG Entering method OrderProcessor.process() with payload size 5357
+2026-06-15 16:14:24 ERROR Exception while processing request /api/v1/products from 10.0.29.179
+2026-06-16 16:14:25 INFO Background worker worker-8 started processing queue
+2026-06-16 16:14:26 ERROR Null pointer exception in module PaymentValidator
+2026-06-17 16:14:27 WARN Retry attempt 5 for connection to inventory-service
+2026-06-17 16:14:28 INFO Background worker worker-7 started processing queue
+2026-06-18 16:14:29 INFO Request PUT /api/v1/orders completed in 2581 ms
+2026-06-17 16:15:30 DEBUG Entering method OrderProcessor.process() with payload size 8216
+2026-06-16 16:15:31 INFO New session created for user carol
+2026-06-18 16:15:32 INFO New session created for user bob
+2026-06-15 16:15:33 DEBUG Entering method OrderProcessor.process() with payload size 1674
+2026-06-17 16:15:34 WARN Connection pool for payment-gateway running low on available connections
+2026-06-16 16:15:35 DEBUG Cache lookup for key key-6246 returned miss
+2026-06-16 16:15:36 WARN Slow query detected on table orders taking 3539 ms
+2026-06-16 16:15:37 DEBUG Cache lookup for key key-2848 returned miss
+2026-06-17 16:15:38 INFO Health check passed for service payment-gateway
+2026-06-16 16:15:39 DEBUG Serialized response object for request /api/v1/checkout
+2026-06-17 16:16:40 WARN Cache miss rate elevated for region eu-central
+2026-06-15 16:16:41 DEBUG Thread pool size adjusted to 3
+2026-06-16 16:16:42 WARN Disk usage on app-server-04 approaching threshold
+2026-06-15 16:16:43 ERROR Null pointer exception in module PaymentValidator
+2026-06-18 16:16:44 WARN Slow query detected on table users taking 1395 ms
+2026-06-16 16:16:45 INFO Request POST /api/v1/checkout completed in 2849 ms
+2026-06-17 16:16:46 WARN Deprecated endpoint /api/v1/login called by client 10.0.27.108
+2026-06-17 16:16:47 FATAL Out of memory error, shutting down worker worker-4
+2026-06-17 16:16:48 DEBUG Thread pool size adjusted to 3
+2026-06-15 16:16:49 INFO User alice logged in successfully from 10.0.27.89
+2026-06-17 16:17:50 WARN Slow query detected on table orders taking 1352 ms
+2026-06-18 16:17:51 ERROR Failed to connect to database at db-replica-02
+2026-06-15 16:17:52 WARN Slow query detected on table orders taking 3858 ms
+2026-06-16 16:17:53 DEBUG Serialized response object for request /api/v1/checkout
+2026-06-18 16:17:54 INFO Health check passed for service auth-service
+2026-06-17 16:17:55 INFO Background worker worker-6 started processing queue
+2026-06-16 16:17:56 INFO Background worker worker-5 started processing queue
+2026-06-16 16:17:57 INFO User carol logged in successfully from 10.0.147.177
+2026-06-16 16:17:58 INFO Background worker worker-2 started processing queue
+2026-06-17 16:17:59 INFO Scheduled job billing-sync finished without errors
+2026-06-17 16:18:00 INFO Request POST /api/v1/checkout completed in 3504 ms
+2026-06-16 16:18:01 INFO User carol logged in successfully from 10.0.125.170
+2026-06-15 16:18:02 INFO New session created for user frank
+2026-06-17 16:18:03 WARN Retry attempt 1 for connection to payment-gateway
+2026-06-15 16:18:04 WARN Connection pool for inventory-service running low on available connections
+2026-06-18 16:18:05 DEBUG Serialized response object for request /api/v1/checkout
+2026-06-15 16:18:06 WARN Retry attempt 5 for connection to notification-service
+2026-06-16 16:18:07 ERROR Unable to acquire lock on resource lock-405
+2026-06-16 16:18:08 INFO Scheduled job cleanup finished without errors
+2026-06-15 16:18:09 ERROR Authentication failed for user heidi from 10.0.49.119
+2026-06-18 16:19:10 INFO New session created for user alice
+2026-06-18 16:19:11 INFO Cache warmed for region us-west
+2026-06-18 16:19:12 WARN Retry attempt 2 for connection to payment-gateway
+2026-06-16 16:19:13 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-17 16:19:14 INFO Cache warmed for region us-east
+2026-06-17 16:19:15 INFO Health check passed for service payment-gateway
+2026-06-17 16:19:16 INFO Cache warmed for region us-west
+2026-06-18 16:19:17 DEBUG Serialized response object for request /api/v1/products
+2026-06-16 16:19:18 INFO Cache warmed for region eu-central
+2026-06-17 16:19:19 INFO Health check passed for service billing-service
+2026-06-16 16:20:20 WARN Cache miss rate elevated for region us-west
+2026-06-18 16:20:21 WARN Retry attempt 3 for connection to notification-service
+2026-06-18 16:20:22 INFO New session created for user carol
+2026-06-17 16:20:23 WARN Connection pool for auth-service running low on available connections
+2026-06-16 16:20:24 DEBUG Entering method OrderProcessor.process() with payload size 1066
+2026-06-17 16:20:25 DEBUG Cache lookup for key key-8288 returned miss
+2026-06-15 16:20:26 INFO Request GET /api/v1/checkout completed in 1656 ms
+2026-06-18 16:20:27 INFO Request GET /api/v1/login completed in 718 ms
+2026-06-18 16:20:28 INFO User erin logged in successfully from 10.0.255.95
+2026-06-15 16:20:29 WARN Cache miss rate elevated for region ap-south
+2026-06-15 16:21:30 ERROR Null pointer exception in module PaymentValidator
+2026-06-17 16:21:31 DEBUG Entering method PaymentValidator.process() with payload size 7951
+2026-06-18 16:21:32 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-16 16:21:33 ERROR Unable to acquire lock on resource lock-295
+2026-06-15 16:21:34 ERROR Exception while processing request /api/v1/login from 10.0.221.197
+2026-06-15 16:21:35 DEBUG Serialized response object for request /api/v1/products
+2026-06-16 16:21:36 INFO Scheduled job index-rebuild finished without errors
+2026-06-16 16:21:37 INFO Configuration reloaded successfully
+2026-06-18 16:21:38 INFO Configuration reloaded successfully
+2026-06-18 16:21:39 WARN Disk usage on cache-node-03 approaching threshold
+2026-06-18 16:22:40 INFO Scheduled job report-gen finished without errors
+2026-06-17 16:22:41 ERROR Unable to acquire lock on resource lock-391
+2026-06-15 16:22:42 INFO User heidi logged in successfully from 10.0.22.13
+2026-06-18 16:22:43 INFO User heidi logged in successfully from 10.0.177.250
+2026-06-17 16:22:44 DEBUG Serialized response object for request /api/v1/orders
+2026-06-16 16:22:45 WARN Cache miss rate elevated for region us-east
+2026-06-16 16:22:46 ERROR Failed to connect to database at db-replica-02
+2026-06-15 16:22:47 WARN Disk usage on db-replica-02 approaching threshold
+2026-06-16 16:22:48 ERROR Unable to acquire lock on resource lock-512
+2026-06-15 16:22:49 INFO Configuration reloaded successfully
+2026-06-15 16:23:50 DEBUG Cache lookup for key key-6418 returned hit
+2026-06-16 16:23:51 DEBUG Cache lookup for key key-2240 returned miss
+2026-06-15 16:23:52 WARN Cache miss rate elevated for region us-west
+2026-06-18 16:23:53 DEBUG Thread pool size adjusted to 1
+2026-06-17 16:23:54 INFO User frank logged in successfully from 10.0.97.163
+2026-06-17 16:23:55 INFO Health check passed for service auth-service
+2026-06-16 16:23:56 DEBUG Serialized response object for request /api/v1/users
+2026-06-15 16:23:57 DEBUG Entering method InventorySync.process() with payload size 7924
+2026-06-17 16:23:58 INFO User carol logged in successfully from 10.0.114.152
+2026-06-17 16:23:59 INFO Scheduled job report-gen finished without errors
+2026-06-17 16:24:00 INFO Configuration reloaded successfully
+2026-06-18 16:24:01 DEBUG Cache lookup for key key-1403 returned hit
+2026-06-18 16:24:02 DEBUG Cache lookup for key key-8395 returned miss
+2026-06-16 16:24:03 INFO Cache warmed for region us-east
+2026-06-15 16:24:04 DEBUG Serialized response object for request /api/v1/orders
+2026-06-15 16:24:05 WARN Retry attempt 5 for connection to billing-service
+2026-06-18 16:24:06 INFO Background worker worker-3 started processing queue
+2026-06-15 16:24:07 INFO Scheduled job report-gen finished without errors
+2026-06-15 16:24:08 ERROR Failed to connect to database at app-server-04
+2026-06-18 16:24:09 INFO Health check passed for service auth-service
+2026-06-16 16:25:10 INFO New session created for user grace
+2026-06-17 16:25:11 ERROR Exception while processing request /api/v1/orders from 10.0.21.34
+2026-06-17 16:25:12 DEBUG Thread pool size adjusted to 4
+2026-06-15 16:25:13 INFO Cache warmed for region ap-south
+2026-06-16 16:25:14 INFO Scheduled job report-gen finished without errors
+2026-06-16 16:25:15 INFO New session created for user alice
+2026-06-16 16:25:16 INFO Request PUT /api/v1/products completed in 1366 ms
+2026-06-15 16:25:17 WARN Cache miss rate elevated for region eu-central
+2026-06-16 16:25:18 DEBUG Serialized response object for request /api/v1/products
+2026-06-16 16:25:19 INFO Scheduled job billing-sync finished without errors
+2026-06-17 16:26:20 INFO Request PUT /api/v1/users completed in 3459 ms
+2026-06-15 16:26:21 DEBUG Serialized response object for request /api/v1/products
+2026-06-15 16:26:22 WARN Cache miss rate elevated for region us-west
+2026-06-17 16:26:23 ERROR Authentication failed for user grace from 10.0.156.181
+2026-06-17 16:26:24 INFO Request GET /api/v1/login completed in 3603 ms
+2026-06-15 16:26:25 DEBUG Thread pool size adjusted to 1
+2026-06-15 16:26:26 INFO User dave logged in successfully from 10.0.66.62
+2026-06-17 16:26:27 DEBUG Entering method OrderProcessor.process() with payload size 2798
+2026-06-15 16:26:28 INFO Configuration reloaded successfully
+2026-06-18 16:26:29 INFO Cache warmed for region us-east
+2026-06-18 16:27:30 INFO Health check passed for service notification-service
+2026-06-17 16:27:31 INFO Health check passed for service billing-service
+2026-06-17 16:27:32 FATAL Out of memory error, shutting down worker worker-7
+2026-06-17 16:27:33 WARN Connection pool for inventory-service running low on available connections
+2026-06-15 16:27:34 INFO Request DELETE /api/v1/checkout completed in 3416 ms
+2026-06-16 16:27:35 WARN Deprecated endpoint /api/v1/checkout called by client 10.0.64.218
+2026-06-16 16:27:36 INFO User heidi logged in successfully from 10.0.222.148
+2026-06-18 16:27:37 INFO User frank logged in successfully from 10.0.94.65
+2026-06-15 16:27:38 INFO Scheduled job report-gen finished without errors
+2026-06-15 16:27:39 INFO Health check passed for service auth-service
+2026-06-16 16:28:40 WARN Retry attempt 5 for connection to auth-service
+2026-06-18 16:28:41 ERROR Failed to connect to database at cache-node-03
+2026-06-18 16:28:42 WARN Slow query detected on table inventory taking 494 ms
+2026-06-18 16:28:43 WARN Cache miss rate elevated for region us-west
+2026-06-17 16:28:44 ERROR Null pointer exception in module PaymentValidator
+2026-06-18 16:28:45 INFO Request DELETE /api/v1/orders completed in 3943 ms
+2026-06-17 16:28:46 INFO Cache warmed for region eu-central
+2026-06-16 16:28:47 WARN Cache miss rate elevated for region eu-central
+2026-06-16 16:28:48 DEBUG Entering method PaymentValidator.process() with payload size 2734
+2026-06-18 16:28:49 DEBUG Cache lookup for key key-4562 returned miss
+2026-06-17 16:29:50 ERROR Timeout waiting for response from service notification-service
+2026-06-15 16:29:51 DEBUG Serialized response object for request /api/v1/products
+2026-06-16 16:29:52 INFO Background worker worker-3 started processing queue
+2026-06-18 16:29:53 INFO Cache warmed for region ap-south
+2026-06-16 16:29:54 INFO Scheduled job cleanup finished without errors
+2026-06-17 16:29:55 WARN Slow query detected on table inventory taking 1627 ms
+2026-06-17 16:29:56 DEBUG Serialized response object for request /api/v1/login
+2026-06-18 16:29:57 WARN Slow query detected on table users taking 48 ms
+2026-06-18 16:29:58 INFO New session created for user frank
+2026-06-15 16:29:59 INFO Health check passed for service billing-service
+2026-06-18 16:30:00 INFO Request DELETE /api/v1/orders completed in 659 ms
+2026-06-16 16:30:01 DEBUG Cache lookup for key key-7049 returned miss
+2026-06-17 16:30:02 INFO User alice logged in successfully from 10.0.25.95
+2026-06-18 16:30:03 INFO New session created for user carol
+2026-06-18 16:30:04 WARN Cache miss rate elevated for region us-west
+2026-06-15 16:30:05 DEBUG Entering method PaymentValidator.process() with payload size 3142
+2026-06-17 16:30:06 INFO Configuration reloaded successfully
+2026-06-18 16:30:07 INFO Health check passed for service billing-service
+2026-06-18 16:30:08 INFO Cache warmed for region us-east
+2026-06-18 16:30:09 INFO Health check passed for service notification-service
+2026-06-18 16:31:10 INFO Cache warmed for region eu-central
+2026-06-18 16:31:11 INFO Configuration reloaded successfully
+2026-06-16 16:31:12 WARN Slow query detected on table users taking 430 ms
+2026-06-16 16:31:13 INFO Background worker worker-6 started processing queue
+2026-06-18 16:31:14 INFO Scheduled job billing-sync finished without errors
+2026-06-18 16:31:15 WARN Retry attempt 5 for connection to notification-service
+2026-06-17 16:31:16 ERROR Authentication failed for user dave from 10.0.54.154
+2026-06-18 16:31:17 INFO Configuration reloaded successfully
+2026-06-15 16:31:18 WARN Connection pool for notification-service running low on available connections
+2026-06-18 16:31:19 INFO Scheduled job report-gen finished without errors
+2026-06-16 16:32:20 INFO Background worker worker-5 started processing queue
+2026-06-18 16:32:21 INFO New session created for user frank
+2026-06-17 16:32:22 ERROR Timeout waiting for response from service payment-gateway
+2026-06-18 16:32:23 INFO Health check passed for service billing-service
+2026-06-17 16:32:24 INFO Health check passed for service payment-gateway
+2026-06-16 16:32:25 WARN Disk usage on db-replica-02 approaching threshold
+2026-06-18 16:32:26 WARN Deprecated endpoint /api/v1/login called by client 10.0.159.73
+2026-06-18 16:32:27 WARN Deprecated endpoint /api/v1/products called by client 10.0.25.231
+2026-06-16 16:32:28 INFO New session created for user grace
+2026-06-15 16:32:29 INFO Cache warmed for region eu-central
+2026-06-15 16:33:30 INFO Background worker worker-7 started processing queue
+2026-06-15 16:33:31 ERROR Failed to connect to database at db-primary-01
+2026-06-17 16:33:32 ERROR Null pointer exception in module PaymentValidator
+2026-06-15 16:33:33 INFO User grace logged in successfully from 10.0.96.84
+2026-06-18 16:33:34 INFO Cache warmed for region eu-central
+2026-06-16 16:33:35 ERROR Authentication failed for user grace from 10.0.83.156
+2026-06-15 16:33:36 ERROR Null pointer exception in module InventorySync
+2026-06-16 16:33:37 WARN Retry attempt 5 for connection to inventory-service
+2026-06-15 16:33:38 INFO User bob logged in successfully from 10.0.186.158
+2026-06-16 16:33:39 DEBUG Cache lookup for key key-1102 returned miss
+2026-06-15 16:34:40 DEBUG Entering method PaymentValidator.process() with payload size 7166
+2026-06-15 16:34:41 ERROR Failed to connect to database at app-server-04
+2026-06-17 16:34:42 WARN Retry attempt 3 for connection to payment-gateway
+2026-06-17 16:34:43 INFO Request POST /api/v1/login completed in 1756 ms
+2026-06-18 16:34:44 WARN Connection pool for inventory-service running low on available connections
+2026-06-15 16:34:45 INFO Cache warmed for region us-west
+2026-06-15 16:34:46 DEBUG Serialized response object for request /api/v1/checkout
+2026-06-15 16:34:47 INFO Scheduled job index-rebuild finished without errors
+2026-06-17 16:34:48 DEBUG Entering method OrderProcessor.process() with payload size 7198
+2026-06-17 16:34:49 DEBUG Thread pool size adjusted to 3
+2026-06-18 16:35:50 INFO Scheduled job report-gen finished without errors
+2026-06-18 16:35:51 INFO Scheduled job report-gen finished without errors
+2026-06-18 16:35:52 ERROR Unable to acquire lock on resource lock-954
+2026-06-18 16:35:53 ERROR Failed to connect to database at cache-node-03
+2026-06-18 16:35:54 WARN Cache miss rate elevated for region us-east
+2026-06-15 16:35:55 INFO Cache warmed for region eu-central
+2026-06-18 16:35:56 INFO Scheduled job index-rebuild finished without errors
+2026-06-16 16:35:57 INFO Scheduled job cleanup finished without errors
+2026-06-15 16:35:58 WARN Cache miss rate elevated for region us-west
+2026-06-15 16:35:59 WARN Disk usage on cache-node-03 approaching threshold
+2026-06-15 16:36:00 DEBUG Entering method InventorySync.process() with payload size 2894
+2026-06-18 16:36:01 INFO Scheduled job billing-sync finished without errors
+2026-06-16 16:36:02 INFO Request GET /api/v1/login completed in 677 ms
+2026-06-16 16:36:03 INFO Cache warmed for region us-east
+2026-06-17 16:36:04 WARN Connection pool for inventory-service running low on available connections
+2026-06-18 16:36:05 INFO Configuration reloaded successfully
+2026-06-17 16:36:06 INFO Health check passed for service auth-service
+2026-06-15 16:36:07 INFO Configuration reloaded successfully
+2026-06-16 16:36:08 INFO User dave logged in successfully from 10.0.107.140
+2026-06-16 16:36:09 WARN Slow query detected on table payments taking 2445 ms
+2026-06-17 16:37:10 INFO Cache warmed for region eu-central
+2026-06-15 16:37:11 WARN Cache miss rate elevated for region us-west
+2026-06-18 16:37:12 INFO User erin logged in successfully from 10.0.25.110
+2026-06-17 16:37:13 ERROR Exception while processing request /api/v1/checkout from 10.0.254.87
+2026-06-15 16:37:14 INFO New session created for user bob
+2026-06-15 16:37:15 FATAL Out of memory error, shutting down worker worker-1
+2026-06-18 16:37:16 INFO Request DELETE /api/v1/orders completed in 1395 ms
+2026-06-17 16:37:17 INFO Background worker worker-4 started processing queue
+2026-06-18 16:37:18 INFO Background worker worker-1 started processing queue
+2026-06-18 16:37:19 WARN Cache miss rate elevated for region us-west
+2026-06-17 16:38:20 INFO Health check passed for service billing-service
+2026-06-18 16:38:21 DEBUG Serialized response object for request /api/v1/login
+2026-06-17 16:38:22 INFO Health check passed for service payment-gateway
+2026-06-18 16:38:23 INFO Request POST /api/v1/products completed in 2474 ms
+2026-06-17 16:38:24 INFO Background worker worker-4 started processing queue
+2026-06-17 16:38:25 INFO Health check passed for service inventory-service
+2026-06-18 16:38:26 INFO Health check passed for service payment-gateway
+2026-06-18 16:38:27 INFO Cache warmed for region us-east
+2026-06-18 16:38:28 INFO Health check passed for service auth-service
+2026-06-15 16:38:29 ERROR Failed to connect to database at cache-node-03
+2026-06-16 16:39:30 INFO Scheduled job index-rebuild finished without errors
+2026-06-18 16:39:31 INFO Cache warmed for region us-east
+2026-06-16 16:39:32 INFO Configuration reloaded successfully
+2026-06-16 16:39:33 INFO Request GET /api/v1/checkout completed in 397 ms
+2026-06-18 16:39:34 WARN Connection pool for auth-service running low on available connections
+2026-06-17 16:39:35 DEBUG Cache lookup for key key-6179 returned miss
+2026-06-15 16:39:36 INFO New session created for user carol
+2026-06-16 16:39:37 INFO Health check passed for service auth-service
+2026-06-15 16:39:38 INFO Request DELETE /api/v1/checkout completed in 1263 ms
+2026-06-16 16:39:39 INFO Configuration reloaded successfully
+2026-06-18 16:40:40 INFO Health check passed for service auth-service
+2026-06-16 16:40:41 WARN Deprecated endpoint /api/v1/login called by client 10.0.74.88
+2026-06-17 16:40:42 ERROR Failed to connect to database at cache-node-03
+2026-06-16 16:40:43 INFO Health check passed for service payment-gateway
+2026-06-15 16:40:44 INFO Scheduled job index-rebuild finished without errors
+2026-06-16 16:40:45 INFO Request POST /api/v1/products completed in 305 ms
+2026-06-17 16:40:46 INFO Health check passed for service auth-service
+2026-06-16 16:40:47 DEBUG Entering method InventorySync.process() with payload size 7395
+2026-06-15 16:40:48 INFO New session created for user dave
+2026-06-18 16:40:49 DEBUG Thread pool size adjusted to 2
+2026-06-18 16:41:50 INFO Scheduled job billing-sync finished without errors
+2026-06-15 16:41:51 DEBUG Thread pool size adjusted to 5
+2026-06-17 16:41:52 WARN Cache miss rate elevated for region us-west
+2026-06-17 16:41:53 ERROR Exception while processing request /api/v1/login from 10.0.204.105
+2026-06-15 16:41:54 DEBUG Entering method PaymentValidator.process() with payload size 2137
+2026-06-17 16:41:55 WARN Connection pool for auth-service running low on available connections
+2026-06-16 16:41:56 INFO Configuration reloaded successfully
+2026-06-16 16:41:57 DEBUG Serialized response object for request /api/v1/orders
+2026-06-18 16:41:58 WARN Disk usage on app-server-04 approaching threshold
+2026-06-18 16:41:59 DEBUG Cache lookup for key key-2457 returned miss
+2026-06-17 16:42:00 WARN Slow query detected on table payments taking 2116 ms
+2026-06-17 16:42:01 INFO Background worker worker-4 started processing queue
+2026-06-18 16:42:02 INFO User frank logged in successfully from 10.0.233.180
+2026-06-15 16:42:03 INFO Health check passed for service payment-gateway
+2026-06-15 16:42:04 ERROR Null pointer exception in module InventorySync
+2026-06-15 16:42:05 ERROR Null pointer exception in module OrderProcessor
+2026-06-18 16:42:06 ERROR Exception while processing request /api/v1/users from 10.0.211.170
+2026-06-17 16:42:07 DEBUG Cache lookup for key key-6521 returned hit
+2026-06-18 16:42:08 WARN Retry attempt 4 for connection to billing-service
+2026-06-18 16:42:09 WARN Cache miss rate elevated for region ap-south
+2026-06-17 16:43:10 WARN Cache miss rate elevated for region us-east
+2026-06-18 16:43:11 INFO Background worker worker-8 started processing queue
+2026-06-18 16:43:12 INFO User frank logged in successfully from 10.0.29.111
+2026-06-17 16:43:13 INFO Background worker worker-4 started processing queue
+2026-06-18 16:43:14 INFO Health check passed for service payment-gateway
+2026-06-15 16:43:15 INFO New session created for user dave
+2026-06-16 16:43:16 DEBUG Cache lookup for key key-9617 returned miss
+2026-06-17 16:43:17 WARN Cache miss rate elevated for region eu-central
+2026-06-15 16:43:18 WARN Cache miss rate elevated for region ap-south
+2026-06-17 16:43:19 INFO New session created for user bob
+2026-06-15 16:44:20 INFO Configuration reloaded successfully
+2026-06-18 16:44:21 INFO Cache warmed for region us-east
+2026-06-16 16:44:22 INFO User frank logged in successfully from 10.0.21.159
+2026-06-16 16:44:23 INFO Request PUT /api/v1/users completed in 1202 ms
+2026-06-16 16:44:24 INFO User bob logged in successfully from 10.0.253.69
+2026-06-16 16:44:25 INFO New session created for user alice
+2026-06-18 16:44:26 INFO Configuration reloaded successfully
+2026-06-18 16:44:27 INFO Background worker worker-5 started processing queue
+2026-06-16 16:44:28 ERROR Authentication failed for user heidi from 10.0.20.215
+2026-06-15 16:44:29 INFO Cache warmed for region us-west
+2026-06-17 16:45:30 INFO User carol logged in successfully from 10.0.133.214
+2026-06-16 16:45:31 WARN Deprecated endpoint /api/v1/products called by client 10.0.122.191
+2026-06-17 16:45:32 WARN Deprecated endpoint /api/v1/products called by client 10.0.1.103
+2026-06-16 16:45:33 ERROR Authentication failed for user grace from 10.0.244.125
+2026-06-16 16:45:34 INFO Request GET /api/v1/login completed in 1432 ms
+2026-06-15 16:45:35 ERROR Authentication failed for user alice from 10.0.192.130
+2026-06-16 16:45:36 WARN Slow query detected on table inventory taking 3040 ms
+2026-06-18 16:45:37 WARN Connection pool for auth-service running low on available connections
+2026-06-16 16:45:38 INFO Background worker worker-7 started processing queue
+2026-06-17 16:45:39 WARN Retry attempt 1 for connection to billing-service
+2026-06-15 16:46:40 INFO Configuration reloaded successfully
+2026-06-17 16:46:41 INFO New session created for user frank
+2026-06-18 16:46:42 INFO Configuration reloaded successfully
+2026-06-16 16:46:43 WARN Cache miss rate elevated for region ap-south
+2026-06-18 16:46:44 ERROR Authentication failed for user bob from 10.0.178.187
+2026-06-15 16:46:45 INFO New session created for user erin
+2026-06-15 16:46:46 WARN Slow query detected on table orders taking 3443 ms
+2026-06-18 16:46:47 INFO User grace logged in successfully from 10.0.117.74
+2026-06-16 16:46:48 INFO Health check passed for service payment-gateway
+2026-06-17 16:46:49 ERROR Authentication failed for user bob from 10.0.139.139
+2026-06-17 16:47:50 WARN Deprecated endpoint /api/v1/orders called by client 10.0.172.204
+2026-06-15 16:47:51 INFO Scheduled job index-rebuild finished without errors
+2026-06-17 16:47:52 WARN Connection pool for billing-service running low on available connections
+2026-06-18 16:47:53 INFO Request DELETE /api/v1/checkout completed in 2041 ms
+2026-06-18 16:47:54 DEBUG Cache lookup for key key-9749 returned hit
+2026-06-16 16:47:55 INFO Configuration reloaded successfully
+2026-06-15 16:47:56 DEBUG Thread pool size adjusted to 2
+2026-06-17 16:47:57 ERROR Null pointer exception in module OrderProcessor
+2026-06-15 16:47:58 WARN Disk usage on db-replica-02 approaching threshold
+2026-06-17 16:47:59 ERROR Authentication failed for user alice from 10.0.86.117
+2026-06-15 16:48:00 WARN Cache miss rate elevated for region us-west
+2026-06-15 16:48:01 DEBUG Cache lookup for key key-8300 returned hit
+2026-06-16 16:48:02 INFO Request DELETE /api/v1/products completed in 662 ms
+2026-06-18 16:48:03 INFO Background worker worker-8 started processing queue
+2026-06-16 16:48:04 DEBUG Thread pool size adjusted to 1
+2026-06-16 16:48:05 INFO New session created for user alice
+2026-06-15 16:48:06 INFO Health check passed for service inventory-service
+2026-06-17 16:48:07 INFO Background worker worker-5 started processing queue
+2026-06-17 16:48:08 WARN Retry attempt 2 for connection to auth-service
+2026-06-16 16:48:09 INFO User alice logged in successfully from 10.0.233.8
+2026-06-15 16:49:10 WARN Slow query detected on table inventory taking 731 ms
+2026-06-15 16:49:11 INFO Scheduled job index-rebuild finished without errors
+2026-06-15 16:49:12 DEBUG Thread pool size adjusted to 2
+2026-06-16 16:49:13 WARN Disk usage on app-server-04 approaching threshold
+2026-06-17 16:49:14 INFO Cache warmed for region us-west
+2026-06-17 16:49:15 ERROR Authentication failed for user carol from 10.0.79.166
+2026-06-17 16:49:16 WARN Retry attempt 1 for connection to billing-service
+2026-06-17 16:49:17 INFO New session created for user carol
+2026-06-17 16:49:18 INFO Health check passed for service billing-service
+2026-06-18 16:49:19 WARN Cache miss rate elevated for region eu-central
+2026-06-15 16:50:20 DEBUG Cache lookup for key key-3073 returned hit
+2026-06-18 16:50:21 INFO Cache warmed for region us-west
+2026-06-18 16:50:22 ERROR Authentication failed for user alice from 10.0.40.63
+2026-06-17 16:50:23 WARN Connection pool for auth-service running low on available connections
+2026-06-17 16:50:24 INFO Health check passed for service auth-service
+2026-06-15 16:50:25 ERROR Null pointer exception in module InventorySync
+2026-06-16 16:50:26 INFO Request PUT /api/v1/users completed in 1488 ms
+2026-06-18 16:50:27 INFO Cache warmed for region eu-central
+2026-06-17 16:50:28 WARN Retry attempt 1 for connection to notification-service
+2026-06-18 16:50:29 INFO Health check passed for service billing-service
+2026-06-17 16:51:30 DEBUG Serialized response object for request /api/v1/products
+2026-06-17 16:51:31 INFO Health check passed for service payment-gateway
+2026-06-18 16:51:32 INFO Health check passed for service inventory-service
+2026-06-16 16:51:33 ERROR Null pointer exception in module InventorySync
+2026-06-16 16:51:34 FATAL Out of memory error, shutting down worker worker-7
+2026-06-17 16:51:35 ERROR Exception while processing request /api/v1/orders from 10.0.60.225
+2026-06-17 16:51:36 ERROR Unable to acquire lock on resource lock-125
+2026-06-18 16:51:37 ERROR Unable to acquire lock on resource lock-615
+2026-06-16 16:51:38 INFO Configuration reloaded successfully
+2026-06-16 16:51:39 DEBUG Serialized response object for request /api/v1/login
+2026-06-16 16:52:40 INFO Health check passed for service notification-service
+2026-06-18 16:52:41 INFO Configuration reloaded successfully
+2026-06-18 16:52:42 INFO User bob logged in successfully from 10.0.204.100
+2026-06-16 16:52:43 WARN Disk usage on app-server-04 approaching threshold
+2026-06-18 16:52:44 WARN Cache miss rate elevated for region us-east
+2026-06-18 16:52:45 DEBUG Serialized response object for request /api/v1/products
+2026-06-17 16:52:46 DEBUG Cache lookup for key key-2145 returned miss
+2026-06-16 16:52:47 ERROR Exception while processing request /api/v1/products from 10.0.172.231
+2026-06-15 16:52:48 INFO Background worker worker-3 started processing queue
+2026-06-16 16:52:49 INFO Cache warmed for region us-east
+2026-06-18 16:53:50 WARN Retry attempt 3 for connection to inventory-service
+2026-06-16 16:53:51 INFO Configuration reloaded successfully
+2026-06-15 16:53:52 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-17 16:53:53 INFO New session created for user erin
+2026-06-17 16:53:54 INFO Health check passed for service notification-service
+2026-06-16 16:53:55 INFO Configuration reloaded successfully
+2026-06-17 16:53:56 DEBUG Serialized response object for request /api/v1/orders
+2026-06-15 16:53:57 INFO Request POST /api/v1/orders completed in 3142 ms
+2026-06-16 16:53:58 DEBUG Cache lookup for key key-9661 returned miss
+2026-06-18 16:53:59 WARN Cache miss rate elevated for region eu-central
+2026-06-15 16:54:00 INFO Cache warmed for region us-west
+2026-06-17 16:54:01 INFO Health check passed for service notification-service
+2026-06-15 16:54:02 DEBUG Entering method InventorySync.process() with payload size 4484
+2026-06-16 16:54:03 ERROR Failed to connect to database at cache-node-03
+2026-06-16 16:54:04 INFO Background worker worker-1 started processing queue
+2026-06-16 16:54:05 INFO Request GET /api/v1/login completed in 1739 ms
+2026-06-15 16:54:06 INFO Background worker worker-6 started processing queue
+2026-06-18 16:54:07 WARN Slow query detected on table orders taking 579 ms
+2026-06-18 16:54:08 INFO Health check passed for service billing-service
+2026-06-18 16:54:09 DEBUG Cache lookup for key key-9915 returned hit
+2026-06-15 16:55:10 ERROR Failed to connect to database at cache-node-03
+2026-06-16 16:55:11 INFO Background worker worker-1 started processing queue
+2026-06-18 16:55:12 INFO Scheduled job index-rebuild finished without errors
+2026-06-18 16:55:13 ERROR Failed to connect to database at db-primary-01
+2026-06-17 16:55:14 INFO Health check passed for service payment-gateway
+2026-06-15 16:55:15 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-18 16:55:16 DEBUG Cache lookup for key key-5861 returned miss
+2026-06-18 16:55:17 ERROR Authentication failed for user erin from 10.0.127.91
+2026-06-15 16:55:18 DEBUG Thread pool size adjusted to 3
+2026-06-16 16:55:19 INFO User alice logged in successfully from 10.0.72.13
+2026-06-16 16:56:20 INFO Health check passed for service billing-service
+2026-06-18 16:56:21 INFO Request GET /api/v1/login completed in 761 ms
+2026-06-18 16:56:22 WARN Connection pool for auth-service running low on available connections
+2026-06-18 16:56:23 ERROR Timeout waiting for response from service inventory-service
+2026-06-17 16:56:24 INFO Configuration reloaded successfully
+2026-06-18 16:56:25 DEBUG Serialized response object for request /api/v1/orders
+2026-06-15 16:56:26 WARN Cache miss rate elevated for region us-east
+2026-06-18 16:56:27 INFO Request PUT /api/v1/orders completed in 356 ms
+2026-06-18 16:56:28 INFO Request GET /api/v1/users completed in 2029 ms
+2026-06-18 16:56:29 INFO Request PUT /api/v1/checkout completed in 636 ms
+2026-06-16 16:57:30 WARN Cache miss rate elevated for region us-east
+2026-06-18 16:57:31 INFO New session created for user dave
+2026-06-17 16:57:32 INFO Background worker worker-8 started processing queue
+2026-06-17 16:57:33 INFO User alice logged in successfully from 10.0.194.204
+2026-06-16 16:57:34 INFO New session created for user erin
+2026-06-16 16:57:35 INFO User carol logged in successfully from 10.0.37.174
+2026-06-16 16:57:36 WARN Slow query detected on table users taking 321 ms
+2026-06-16 16:57:37 INFO Configuration reloaded successfully
+2026-06-18 16:57:38 WARN Retry attempt 2 for connection to inventory-service
+2026-06-17 16:57:39 INFO Scheduled job cleanup finished without errors
+2026-06-17 16:58:40 INFO Health check passed for service inventory-service
+2026-06-18 16:58:41 INFO Health check passed for service auth-service
+2026-06-18 16:58:42 INFO Cache warmed for region us-east
+2026-06-18 16:58:43 INFO Configuration reloaded successfully
+2026-06-15 16:58:44 INFO Request GET /api/v1/users completed in 3939 ms
+2026-06-16 16:58:45 ERROR Null pointer exception in module PaymentValidator
+2026-06-15 16:58:46 DEBUG Entering method InventorySync.process() with payload size 3325
+2026-06-15 16:58:47 INFO Health check passed for service notification-service
+2026-06-17 16:58:48 INFO Configuration reloaded successfully
+2026-06-17 16:58:49 INFO Background worker worker-3 started processing queue
+2026-06-16 16:59:50 DEBUG Cache lookup for key key-1693 returned hit
+2026-06-15 16:59:51 INFO Health check passed for service billing-service
+2026-06-17 16:59:52 DEBUG Thread pool size adjusted to 1
+2026-06-17 16:59:53 INFO New session created for user grace
+2026-06-17 16:59:54 WARN Slow query detected on table inventory taking 3449 ms
+2026-06-15 16:59:55 INFO Background worker worker-7 started processing queue
+2026-06-15 16:59:56 ERROR Timeout waiting for response from service auth-service
+2026-06-18 16:59:57 INFO Scheduled job index-rebuild finished without errors
+2026-06-17 16:59:58 ERROR Timeout waiting for response from service inventory-service
+2026-06-17 16:59:59 WARN Cache miss rate elevated for region eu-central
+2026-06-17 17:00:00 INFO Background worker worker-8 started processing queue
+2026-06-18 17:00:01 INFO Configuration reloaded successfully
+2026-06-16 17:00:02 INFO User carol logged in successfully from 10.0.60.141
+2026-06-16 17:00:03 INFO New session created for user dave
+2026-06-18 17:00:04 INFO Request POST /api/v1/products completed in 3092 ms
+2026-06-16 17:00:05 INFO Configuration reloaded successfully
+2026-06-18 17:00:06 WARN Cache miss rate elevated for region us-east
+2026-06-16 17:00:07 INFO Background worker worker-1 started processing queue
+2026-06-15 17:00:08 WARN Retry attempt 2 for connection to payment-gateway
+2026-06-16 17:00:09 INFO Scheduled job index-rebuild finished without errors
+2026-06-17 17:01:10 WARN Slow query detected on table inventory taking 2885 ms
+2026-06-15 17:01:11 WARN Retry attempt 1 for connection to payment-gateway
+2026-06-18 17:01:12 INFO Request DELETE /api/v1/users completed in 34 ms
+2026-06-16 17:01:13 INFO Configuration reloaded successfully
+2026-06-17 17:01:14 INFO New session created for user frank
+2026-06-16 17:01:15 INFO Scheduled job index-rebuild finished without errors
+2026-06-18 17:01:16 INFO Scheduled job index-rebuild finished without errors
+2026-06-17 17:01:17 ERROR Unable to acquire lock on resource lock-140
+2026-06-18 17:01:18 INFO Request GET /api/v1/users completed in 146 ms
+2026-06-15 17:01:19 INFO User bob logged in successfully from 10.0.196.108
+2026-06-15 17:02:20 DEBUG Cache lookup for key key-6964 returned hit
+2026-06-18 17:02:21 WARN Connection pool for notification-service running low on available connections
+2026-06-15 17:02:22 INFO Scheduled job billing-sync finished without errors
+2026-06-15 17:02:23 INFO Background worker worker-3 started processing queue
+2026-06-18 17:02:24 INFO Background worker worker-4 started processing queue
+2026-06-18 17:02:25 WARN Cache miss rate elevated for region eu-central
+2026-06-17 17:02:26 DEBUG Entering method UserAuthHandler.process() with payload size 3090
+2026-06-16 17:02:27 ERROR Exception while processing request /api/v1/products from 10.0.137.153
+2026-06-18 17:02:28 INFO Request DELETE /api/v1/login completed in 733 ms
+2026-06-17 17:02:29 ERROR Timeout waiting for response from service auth-service
+2026-06-15 17:03:30 WARN Retry attempt 5 for connection to billing-service
+2026-06-18 17:03:31 ERROR Failed to connect to database at db-replica-02
+2026-06-16 17:03:32 INFO New session created for user dave
+2026-06-18 17:03:33 INFO Health check passed for service payment-gateway
+2026-06-18 17:03:34 INFO User alice logged in successfully from 10.0.233.148
+2026-06-17 17:03:35 ERROR Null pointer exception in module InventorySync
+2026-06-15 17:03:36 INFO New session created for user carol
+2026-06-16 17:03:37 INFO Configuration reloaded successfully
+2026-06-17 17:03:38 DEBUG Cache lookup for key key-7330 returned miss
+2026-06-17 17:03:39 INFO Background worker worker-2 started processing queue
+2026-06-15 17:04:40 INFO User grace logged in successfully from 10.0.126.84
+2026-06-17 17:04:41 INFO Background worker worker-6 started processing queue
+2026-06-15 17:04:42 INFO User grace logged in successfully from 10.0.166.205
+2026-06-15 17:04:43 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-17 17:04:44 ERROR Exception while processing request /api/v1/login from 10.0.195.168
+2026-06-16 17:04:45 INFO Background worker worker-1 started processing queue
+2026-06-18 17:04:46 DEBUG Serialized response object for request /api/v1/checkout
+2026-06-18 17:04:47 WARN Disk usage on app-server-04 approaching threshold
+2026-06-17 17:04:48 INFO New session created for user frank
+2026-06-17 17:04:49 ERROR Unable to acquire lock on resource lock-860
+2026-06-17 17:05:50 ERROR Timeout waiting for response from service notification-service
+2026-06-16 17:05:51 WARN Retry attempt 4 for connection to notification-service
+2026-06-15 17:05:52 INFO Background worker worker-7 started processing queue
+2026-06-15 17:05:53 DEBUG Cache lookup for key key-9921 returned miss
+2026-06-16 17:05:54 INFO Request PUT /api/v1/products completed in 905 ms
+2026-06-18 17:05:55 INFO Cache warmed for region ap-south
+2026-06-15 17:05:56 WARN Connection pool for inventory-service running low on available connections
+2026-06-16 17:05:57 DEBUG Cache lookup for key key-3466 returned miss
+2026-06-16 17:05:58 WARN Deprecated endpoint /api/v1/orders called by client 10.0.52.248
+2026-06-15 17:05:59 INFO Cache warmed for region ap-south
+2026-06-16 17:06:00 INFO Request POST /api/v1/login completed in 3085 ms
+2026-06-16 17:06:01 INFO User bob logged in successfully from 10.0.20.58
+2026-06-17 17:06:02 INFO User dave logged in successfully from 10.0.183.107
+2026-06-15 17:06:03 WARN Deprecated endpoint /api/v1/login called by client 10.0.182.236
+2026-06-17 17:06:04 INFO Scheduled job report-gen finished without errors
+2026-06-18 17:06:05 DEBUG Thread pool size adjusted to 3
+2026-06-15 17:06:06 WARN Slow query detected on table inventory taking 3705 ms
+2026-06-16 17:06:07 INFO Request GET /api/v1/login completed in 3257 ms
+2026-06-16 17:06:08 INFO Background worker worker-2 started processing queue
+2026-06-17 17:06:09 INFO Health check passed for service notification-service
+2026-06-18 17:07:10 INFO Background worker worker-2 started processing queue
+2026-06-17 17:07:11 INFO Scheduled job cleanup finished without errors
+2026-06-15 17:07:12 INFO Scheduled job billing-sync finished without errors
+2026-06-16 17:07:13 ERROR Exception while processing request /api/v1/users from 10.0.209.229
+2026-06-17 17:07:14 ERROR Failed to connect to database at cache-node-03
+2026-06-18 17:07:15 ERROR Exception while processing request /api/v1/checkout from 10.0.31.218
+2026-06-17 17:07:16 INFO Background worker worker-6 started processing queue
+2026-06-17 17:07:17 WARN Retry attempt 4 for connection to payment-gateway
+2026-06-17 17:07:18 INFO New session created for user dave
+2026-06-16 17:07:19 INFO User frank logged in successfully from 10.0.27.93
+2026-06-17 17:08:20 DEBUG Entering method UserAuthHandler.process() with payload size 203
+2026-06-18 17:08:21 ERROR Timeout waiting for response from service notification-service
+2026-06-16 17:08:22 INFO User erin logged in successfully from 10.0.241.51
+2026-06-17 17:08:23 INFO Background worker worker-2 started processing queue
+2026-06-17 17:08:24 ERROR Timeout waiting for response from service notification-service
+2026-06-15 17:08:25 INFO Request GET /api/v1/checkout completed in 2346 ms
+2026-06-17 17:08:26 DEBUG Entering method UserAuthHandler.process() with payload size 8931
+2026-06-18 17:08:27 DEBUG Entering method UserAuthHandler.process() with payload size 3023
+2026-06-15 17:08:28 INFO Configuration reloaded successfully
+2026-06-15 17:08:29 WARN Deprecated endpoint /api/v1/checkout called by client 10.0.106.154
+2026-06-15 17:09:30 INFO Background worker worker-5 started processing queue
+2026-06-17 17:09:31 INFO Background worker worker-3 started processing queue
+2026-06-18 17:09:32 ERROR Unable to acquire lock on resource lock-626
+2026-06-17 17:09:33 WARN Retry attempt 1 for connection to inventory-service
+2026-06-17 17:09:34 DEBUG Thread pool size adjusted to 1
+2026-06-16 17:09:35 INFO Scheduled job report-gen finished without errors
+2026-06-18 17:09:36 INFO New session created for user carol
+2026-06-15 17:09:37 DEBUG Entering method InventorySync.process() with payload size 8071
+2026-06-18 17:09:38 INFO Scheduled job billing-sync finished without errors
+2026-06-16 17:09:39 WARN Cache miss rate elevated for region ap-south
+2026-06-15 17:10:40 WARN Cache miss rate elevated for region us-east
+2026-06-18 17:10:41 INFO Health check passed for service payment-gateway
+2026-06-16 17:10:42 INFO Cache warmed for region us-west
+2026-06-15 17:10:43 FATAL Out of memory error, shutting down worker worker-2
+2026-06-18 17:10:44 DEBUG Thread pool size adjusted to 5
+2026-06-15 17:10:45 INFO Configuration reloaded successfully
+2026-06-17 17:10:46 INFO New session created for user bob
+2026-06-18 17:10:47 INFO Health check passed for service notification-service
+2026-06-15 17:10:48 INFO New session created for user dave
+2026-06-17 17:10:49 WARN Slow query detected on table users taking 2619 ms
+2026-06-18 17:11:50 INFO Cache warmed for region us-east
+2026-06-15 17:11:51 WARN Retry attempt 3 for connection to billing-service
+2026-06-16 17:11:52 WARN Disk usage on db-replica-02 approaching threshold
+2026-06-18 17:11:53 INFO User grace logged in successfully from 10.0.200.198
+2026-06-15 17:11:54 ERROR Exception while processing request /api/v1/products from 10.0.104.15
+2026-06-17 17:11:55 DEBUG Entering method UserAuthHandler.process() with payload size 6969
+2026-06-17 17:11:56 INFO Background worker worker-1 started processing queue
+2026-06-15 17:11:57 INFO New session created for user heidi
+2026-06-16 17:11:58 WARN Deprecated endpoint /api/v1/products called by client 10.0.57.155
+2026-06-18 17:11:59 INFO Scheduled job report-gen finished without errors
+2026-06-18 17:12:00 INFO Cache warmed for region us-west
+2026-06-17 17:12:01 INFO User dave logged in successfully from 10.0.6.231
+2026-06-15 17:12:02 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-15 17:12:03 WARN Deprecated endpoint /api/v1/users called by client 10.0.7.111
+2026-06-17 17:12:04 DEBUG Thread pool size adjusted to 2
+2026-06-18 17:12:05 INFO Configuration reloaded successfully
+2026-06-16 17:12:06 WARN Slow query detected on table orders taking 3790 ms
+2026-06-17 17:12:07 INFO Health check passed for service payment-gateway
+2026-06-16 17:12:08 INFO Request PUT /api/v1/checkout completed in 1894 ms
+2026-06-17 17:12:09 WARN Disk usage on app-server-04 approaching threshold
+2026-06-18 17:13:10 WARN Connection pool for auth-service running low on available connections
+2026-06-15 17:13:11 WARN Cache miss rate elevated for region eu-central
+2026-06-17 17:13:12 INFO Health check passed for service inventory-service
+2026-06-15 17:13:13 INFO User dave logged in successfully from 10.0.85.214
+2026-06-18 17:13:14 FATAL Out of memory error, shutting down worker worker-3
+2026-06-18 17:13:15 INFO Background worker worker-1 started processing queue
+2026-06-17 17:13:16 INFO Configuration reloaded successfully
+2026-06-17 17:13:17 DEBUG Cache lookup for key key-7222 returned miss
+2026-06-18 17:13:18 DEBUG Serialized response object for request /api/v1/orders
+2026-06-15 17:13:19 ERROR Authentication failed for user bob from 10.0.134.178
+2026-06-17 17:14:20 INFO Health check passed for service billing-service
+2026-06-15 17:14:21 INFO Request DELETE /api/v1/products completed in 1992 ms
+2026-06-17 17:14:22 DEBUG Thread pool size adjusted to 4
+2026-06-16 17:14:23 ERROR Exception while processing request /api/v1/login from 10.0.16.238
+2026-06-17 17:14:24 WARN Deprecated endpoint /api/v1/users called by client 10.0.20.156
+2026-06-16 17:14:25 ERROR Exception while processing request /api/v1/checkout from 10.0.202.82
+2026-06-17 17:14:26 WARN Deprecated endpoint /api/v1/products called by client 10.0.15.127
+2026-06-15 17:14:27 INFO New session created for user dave
+2026-06-18 17:14:28 INFO Health check passed for service notification-service
+2026-06-16 17:14:29 WARN Deprecated endpoint /api/v1/orders called by client 10.0.11.44
+2026-06-18 17:15:30 INFO Health check passed for service inventory-service
+2026-06-16 17:15:31 INFO User erin logged in successfully from 10.0.125.196
+2026-06-18 17:15:32 ERROR Unable to acquire lock on resource lock-453
+2026-06-18 17:15:33 DEBUG Thread pool size adjusted to 1
+2026-06-15 17:15:34 INFO Health check passed for service payment-gateway
+2026-06-18 17:15:35 INFO Background worker worker-3 started processing queue
+2026-06-18 17:15:36 ERROR Unable to acquire lock on resource lock-827
+2026-06-16 17:15:37 INFO Background worker worker-3 started processing queue
+2026-06-17 17:15:38 WARN Cache miss rate elevated for region us-east
+2026-06-18 17:15:39 WARN Retry attempt 1 for connection to payment-gateway
+2026-06-16 17:16:40 INFO Request PUT /api/v1/checkout completed in 2841 ms
+2026-06-15 17:16:41 INFO Request PUT /api/v1/products completed in 2667 ms
+2026-06-17 17:16:42 INFO Cache warmed for region us-east
+2026-06-17 17:16:43 INFO New session created for user frank
+2026-06-15 17:16:44 INFO New session created for user carol
+2026-06-16 17:16:45 INFO Health check passed for service notification-service
+2026-06-17 17:16:46 WARN Deprecated endpoint /api/v1/orders called by client 10.0.171.71
+2026-06-16 17:16:47 DEBUG Serialized response object for request /api/v1/checkout
+2026-06-17 17:16:48 ERROR Exception while processing request /api/v1/products from 10.0.173.192
+2026-06-18 17:16:49 WARN Retry attempt 4 for connection to auth-service
+2026-06-15 17:17:50 INFO Health check passed for service auth-service
+2026-06-17 17:17:51 WARN Deprecated endpoint /api/v1/login called by client 10.0.48.92
+2026-06-16 17:17:52 ERROR Exception while processing request /api/v1/checkout from 10.0.154.166
+2026-06-18 17:17:53 WARN Cache miss rate elevated for region us-west
+2026-06-17 17:17:54 DEBUG Cache lookup for key key-7910 returned miss
+2026-06-17 17:17:55 INFO Background worker worker-7 started processing queue
+2026-06-18 17:17:56 DEBUG Entering method UserAuthHandler.process() with payload size 2088
+2026-06-17 17:17:57 INFO Configuration reloaded successfully
+2026-06-15 17:17:58 DEBUG Cache lookup for key key-9881 returned miss
+2026-06-17 17:17:59 DEBUG Serialized response object for request /api/v1/checkout
+2026-06-16 17:18:00 INFO New session created for user alice
+2026-06-15 17:18:01 INFO Request DELETE /api/v1/users completed in 1439 ms
+2026-06-16 17:18:02 INFO Request GET /api/v1/checkout completed in 1927 ms
+2026-06-17 17:18:03 WARN Slow query detected on table inventory taking 3569 ms
+2026-06-16 17:18:04 DEBUG Cache lookup for key key-9876 returned miss
+2026-06-15 17:18:05 ERROR Timeout waiting for response from service payment-gateway
+2026-06-18 17:18:06 INFO Configuration reloaded successfully
+2026-06-15 17:18:07 INFO Cache warmed for region us-west
+2026-06-18 17:18:08 DEBUG Entering method PaymentValidator.process() with payload size 2227
+2026-06-15 17:18:09 INFO Scheduled job report-gen finished without errors
+2026-06-16 17:19:10 INFO Configuration reloaded successfully
+2026-06-16 17:19:11 DEBUG Serialized response object for request /api/v1/login
+2026-06-15 17:19:12 INFO Configuration reloaded successfully
+2026-06-18 17:19:13 INFO Scheduled job cleanup finished without errors
+2026-06-16 17:19:14 INFO Scheduled job cleanup finished without errors
+2026-06-15 17:19:15 INFO Request GET /api/v1/users completed in 1201 ms
+2026-06-15 17:19:16 INFO Configuration reloaded successfully
+2026-06-16 17:19:17 ERROR Unable to acquire lock on resource lock-839
+2026-06-16 17:19:18 INFO User grace logged in successfully from 10.0.176.49
+2026-06-17 17:19:19 WARN Connection pool for notification-service running low on available connections
+2026-06-18 17:20:20 ERROR Authentication failed for user heidi from 10.0.169.64
+2026-06-16 17:20:21 WARN Cache miss rate elevated for region us-west
+2026-06-17 17:20:22 WARN Slow query detected on table payments taking 397 ms
+2026-06-17 17:20:23 INFO Health check passed for service inventory-service
+2026-06-17 17:20:24 INFO Health check passed for service payment-gateway
+2026-06-16 17:20:25 DEBUG Serialized response object for request /api/v1/users
+2026-06-15 17:20:26 INFO Cache warmed for region eu-central
+2026-06-17 17:20:27 INFO User heidi logged in successfully from 10.0.227.38
+2026-06-16 17:20:28 ERROR Exception while processing request /api/v1/login from 10.0.164.103
+2026-06-16 17:20:29 WARN Cache miss rate elevated for region us-east
+2026-06-16 17:21:30 INFO Request PUT /api/v1/orders completed in 457 ms
+2026-06-16 17:21:31 WARN Cache miss rate elevated for region us-east
+2026-06-17 17:21:32 ERROR Timeout waiting for response from service billing-service
+2026-06-15 17:21:33 INFO Request GET /api/v1/users completed in 2638 ms
+2026-06-16 17:21:34 INFO New session created for user erin
+2026-06-18 17:21:35 INFO Scheduled job index-rebuild finished without errors
+2026-06-18 17:21:36 WARN Deprecated endpoint /api/v1/orders called by client 10.0.227.90
+2026-06-18 17:21:37 DEBUG Thread pool size adjusted to 2
+2026-06-17 17:21:38 ERROR Timeout waiting for response from service billing-service
+2026-06-15 17:21:39 DEBUG Cache lookup for key key-5050 returned miss
+2026-06-15 17:22:40 INFO Health check passed for service auth-service
+2026-06-16 17:22:41 DEBUG Cache lookup for key key-6195 returned miss
+2026-06-17 17:22:42 INFO Configuration reloaded successfully
+2026-06-15 17:22:43 INFO Configuration reloaded successfully
+2026-06-16 17:22:44 WARN Disk usage on cache-node-03 approaching threshold
+2026-06-17 17:22:45 INFO Cache warmed for region eu-central
+2026-06-17 17:22:46 INFO Cache warmed for region us-west
+2026-06-16 17:22:47 INFO Cache warmed for region us-east
+2026-06-18 17:22:48 DEBUG Serialized response object for request /api/v1/login
+2026-06-16 17:22:49 DEBUG Cache lookup for key key-3326 returned miss
+2026-06-18 17:23:50 WARN Retry attempt 1 for connection to inventory-service
+2026-06-16 17:23:51 ERROR Exception while processing request /api/v1/orders from 10.0.50.198
+2026-06-16 17:23:52 ERROR Unable to acquire lock on resource lock-362
+2026-06-16 17:23:53 FATAL Out of memory error, shutting down worker worker-1
+2026-06-18 17:23:54 WARN Disk usage on app-server-04 approaching threshold
+2026-06-17 17:23:55 ERROR Unable to acquire lock on resource lock-302
+2026-06-18 17:23:56 ERROR Failed to connect to database at cache-node-03
+2026-06-18 17:23:57 INFO User carol logged in successfully from 10.0.221.137
+2026-06-18 17:23:58 INFO Request DELETE /api/v1/products completed in 1934 ms
+2026-06-16 17:23:59 INFO Cache warmed for region us-east
+2026-06-17 17:24:00 INFO User erin logged in successfully from 10.0.54.40
+2026-06-16 17:24:01 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-17 17:24:02 INFO Cache warmed for region us-east
+2026-06-18 17:24:03 INFO Request DELETE /api/v1/products completed in 3922 ms
+2026-06-15 17:24:04 INFO Scheduled job billing-sync finished without errors
+2026-06-15 17:24:05 INFO Request DELETE /api/v1/products completed in 3637 ms
+2026-06-17 17:24:06 WARN Deprecated endpoint /api/v1/products called by client 10.0.97.114
+2026-06-18 17:24:07 INFO Cache warmed for region ap-south
+2026-06-17 17:24:08 WARN Cache miss rate elevated for region eu-central
+2026-06-17 17:24:09 INFO Configuration reloaded successfully
+2026-06-15 17:25:10 ERROR Exception while processing request /api/v1/login from 10.0.38.114
+2026-06-16 17:25:11 WARN Deprecated endpoint /api/v1/orders called by client 10.0.140.171
+2026-06-18 17:25:12 INFO Cache warmed for region ap-south
+2026-06-15 17:25:13 INFO Health check passed for service payment-gateway
+2026-06-15 17:25:14 INFO New session created for user carol
+2026-06-15 17:25:15 INFO User erin logged in successfully from 10.0.123.243
+2026-06-17 17:25:16 DEBUG Cache lookup for key key-4323 returned miss
+2026-06-18 17:25:17 WARN Slow query detected on table orders taking 963 ms
+2026-06-17 17:25:18 DEBUG Entering method UserAuthHandler.process() with payload size 5179
+2026-06-15 17:25:19 INFO New session created for user grace
+2026-06-15 17:26:20 DEBUG Thread pool size adjusted to 3
+2026-06-15 17:26:21 WARN Connection pool for inventory-service running low on available connections
+2026-06-16 17:26:22 WARN Deprecated endpoint /api/v1/checkout called by client 10.0.219.234
+2026-06-18 17:26:23 WARN Disk usage on app-server-04 approaching threshold
+2026-06-18 17:26:24 WARN Retry attempt 2 for connection to billing-service
+2026-06-16 17:26:25 INFO Scheduled job billing-sync finished without errors
+2026-06-17 17:26:26 WARN Connection pool for payment-gateway running low on available connections
+2026-06-16 17:26:27 ERROR Authentication failed for user bob from 10.0.79.173
+2026-06-16 17:26:28 INFO Request PUT /api/v1/login completed in 639 ms
+2026-06-17 17:26:29 WARN Deprecated endpoint /api/v1/users called by client 10.0.5.182
+2026-06-18 17:27:30 INFO New session created for user carol
+2026-06-17 17:27:31 DEBUG Serialized response object for request /api/v1/users
+2026-06-16 17:27:32 INFO Configuration reloaded successfully
+2026-06-15 17:27:33 INFO New session created for user bob
+2026-06-16 17:27:34 INFO Configuration reloaded successfully
+2026-06-15 17:27:35 INFO User erin logged in successfully from 10.0.184.212
+2026-06-18 17:27:36 DEBUG Serialized response object for request /api/v1/products
+2026-06-16 17:27:37 INFO Request GET /api/v1/orders completed in 3355 ms
+2026-06-16 17:27:38 INFO Request POST /api/v1/orders completed in 3890 ms
+2026-06-17 17:27:39 ERROR Exception while processing request /api/v1/login from 10.0.238.137
+2026-06-17 17:28:40 WARN Connection pool for auth-service running low on available connections
+2026-06-18 17:28:41 ERROR Unable to acquire lock on resource lock-399
+2026-06-16 17:28:42 ERROR Unable to acquire lock on resource lock-455
+2026-06-18 17:28:43 DEBUG Serialized response object for request /api/v1/login
+2026-06-16 17:28:44 DEBUG Serialized response object for request /api/v1/products
+2026-06-18 17:28:45 DEBUG Thread pool size adjusted to 1
+2026-06-18 17:28:46 ERROR Unable to acquire lock on resource lock-304
+2026-06-17 17:28:47 INFO Configuration reloaded successfully
+2026-06-15 17:28:48 INFO Scheduled job cleanup finished without errors
+2026-06-16 17:28:49 INFO User erin logged in successfully from 10.0.167.191
+2026-06-18 17:29:50 ERROR Unable to acquire lock on resource lock-101
+2026-06-18 17:29:51 INFO New session created for user grace
+2026-06-18 17:29:52 DEBUG Thread pool size adjusted to 4
+2026-06-18 17:29:53 INFO User carol logged in successfully from 10.0.51.121
+2026-06-16 17:29:54 INFO Background worker worker-8 started processing queue
+2026-06-15 17:29:55 INFO Cache warmed for region ap-south
+2026-06-16 17:29:56 INFO Background worker worker-1 started processing queue
+2026-06-15 17:29:57 INFO Cache warmed for region ap-south
+2026-06-17 17:29:58 INFO Cache warmed for region us-east
+2026-06-15 17:29:59 DEBUG Serialized response object for request /api/v1/orders
+2026-06-17 17:30:00 INFO Cache warmed for region ap-south
+2026-06-18 17:30:01 INFO Scheduled job billing-sync finished without errors
+2026-06-18 17:30:02 INFO Background worker worker-8 started processing queue
+2026-06-18 17:30:03 WARN Slow query detected on table users taking 623 ms
+2026-06-16 17:30:04 INFO User bob logged in successfully from 10.0.155.115
+2026-06-16 17:30:05 ERROR Unable to acquire lock on resource lock-786
+2026-06-15 17:30:06 DEBUG Serialized response object for request /api/v1/login
+2026-06-17 17:30:07 INFO Scheduled job cleanup finished without errors
+2026-06-15 17:30:08 INFO Health check passed for service notification-service
+2026-06-18 17:30:09 INFO Configuration reloaded successfully
+2026-06-17 17:31:10 WARN Connection pool for inventory-service running low on available connections
+2026-06-18 17:31:11 INFO Request PUT /api/v1/checkout completed in 1402 ms
+2026-06-18 17:31:12 ERROR Timeout waiting for response from service auth-service
+2026-06-17 17:31:13 INFO Health check passed for service billing-service
+2026-06-16 17:31:14 INFO New session created for user grace
+2026-06-16 17:31:15 WARN Slow query detected on table payments taking 3810 ms
+2026-06-17 17:31:16 DEBUG Thread pool size adjusted to 5
+2026-06-15 17:31:17 ERROR Null pointer exception in module UserAuthHandler
+2026-06-18 17:31:18 DEBUG Entering method OrderProcessor.process() with payload size 6018
+2026-06-15 17:31:19 INFO Background worker worker-8 started processing queue
+2026-06-17 17:32:20 WARN Retry attempt 1 for connection to auth-service
+2026-06-15 17:32:21 DEBUG Thread pool size adjusted to 4
+2026-06-16 17:32:22 INFO User erin logged in successfully from 10.0.234.230
+2026-06-16 17:32:23 WARN Retry attempt 4 for connection to notification-service
+2026-06-15 17:32:24 INFO Cache warmed for region us-west
+2026-06-18 17:32:25 INFO Configuration reloaded successfully
+2026-06-17 17:32:26 DEBUG Thread pool size adjusted to 1
+2026-06-15 17:32:27 ERROR Exception while processing request /api/v1/checkout from 10.0.50.188
+2026-06-17 17:32:28 INFO New session created for user frank
+2026-06-17 17:32:29 INFO Request DELETE /api/v1/orders completed in 2436 ms
+2026-06-17 17:33:30 INFO Cache warmed for region eu-central
+2026-06-15 17:33:31 DEBUG Serialized response object for request /api/v1/orders
+2026-06-16 17:33:32 INFO Health check passed for service notification-service
+2026-06-18 17:33:33 DEBUG Entering method InventorySync.process() with payload size 898
+2026-06-17 17:33:34 INFO User grace logged in successfully from 10.0.103.173
+2026-06-15 17:33:35 ERROR Authentication failed for user frank from 10.0.202.120
+2026-06-15 17:33:36 INFO Cache warmed for region us-west
+2026-06-17 17:33:37 INFO User erin logged in successfully from 10.0.199.13
+2026-06-17 17:33:38 DEBUG Thread pool size adjusted to 2
+2026-06-15 17:33:39 ERROR Failed to connect to database at app-server-04
+2026-06-18 17:34:40 WARN Cache miss rate elevated for region us-east
+2026-06-15 17:34:41 INFO New session created for user dave
+2026-06-15 17:34:42 INFO Health check passed for service billing-service
+2026-06-15 17:34:43 INFO Background worker worker-2 started processing queue
+2026-06-17 17:34:44 INFO Scheduled job cleanup finished without errors
+2026-06-17 17:34:45 WARN Connection pool for billing-service running low on available connections
+2026-06-17 17:34:46 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-15 17:34:47 INFO Background worker worker-6 started processing queue
+2026-06-17 17:34:48 WARN Disk usage on app-server-04 approaching threshold
+2026-06-15 17:34:49 WARN Slow query detected on table orders taking 3580 ms
+2026-06-16 17:35:50 INFO User heidi logged in successfully from 10.0.23.113
+2026-06-18 17:35:51 INFO New session created for user grace
+2026-06-15 17:35:52 INFO Health check passed for service auth-service
+2026-06-16 17:35:53 INFO Health check passed for service notification-service
+2026-06-18 17:35:54 INFO User bob logged in successfully from 10.0.149.40
+2026-06-16 17:35:55 INFO Request DELETE /api/v1/login completed in 1515 ms
+2026-06-17 17:35:56 INFO Request GET /api/v1/login completed in 3561 ms
+2026-06-15 17:35:57 INFO New session created for user erin
+2026-06-18 17:35:58 DEBUG Entering method OrderProcessor.process() with payload size 5563
+2026-06-15 17:35:59 WARN Deprecated endpoint /api/v1/login called by client 10.0.216.164
+2026-06-18 17:36:00 ERROR Timeout waiting for response from service notification-service
+2026-06-16 17:36:01 INFO User frank logged in successfully from 10.0.59.129
+2026-06-16 17:36:02 DEBUG Serialized response object for request /api/v1/users
+2026-06-16 17:36:03 DEBUG Thread pool size adjusted to 4
+2026-06-16 17:36:04 DEBUG Serialized response object for request /api/v1/products
+2026-06-16 17:36:05 WARN Retry attempt 1 for connection to inventory-service
+2026-06-17 17:36:06 DEBUG Entering method UserAuthHandler.process() with payload size 2322
+2026-06-15 17:36:07 WARN Retry attempt 5 for connection to payment-gateway
+2026-06-15 17:36:08 INFO Health check passed for service billing-service
+2026-06-15 17:36:09 ERROR Exception while processing request /api/v1/users from 10.0.134.75
+2026-06-16 17:37:10 INFO Health check passed for service payment-gateway
+2026-06-16 17:37:11 INFO Scheduled job index-rebuild finished without errors
+2026-06-15 17:37:12 WARN Deprecated endpoint /api/v1/users called by client 10.0.76.138
+2026-06-18 17:37:13 WARN Retry attempt 2 for connection to notification-service
+2026-06-17 17:37:14 INFO User carol logged in successfully from 10.0.143.131
+2026-06-16 17:37:15 DEBUG Thread pool size adjusted to 3
+2026-06-17 17:37:16 DEBUG Thread pool size adjusted to 1
+2026-06-18 17:37:17 ERROR Unable to acquire lock on resource lock-246
+2026-06-17 17:37:18 DEBUG Cache lookup for key key-5601 returned miss
+2026-06-18 17:37:19 INFO Configuration reloaded successfully
+2026-06-17 17:38:20 WARN Deprecated endpoint /api/v1/login called by client 10.0.214.143
+2026-06-16 17:38:21 INFO New session created for user carol
+2026-06-17 17:38:22 ERROR Authentication failed for user dave from 10.0.161.21
+2026-06-18 17:38:23 WARN Disk usage on cache-node-03 approaching threshold
+2026-06-17 17:38:24 INFO Request GET /api/v1/orders completed in 2975 ms
+2026-06-17 17:38:25 INFO Health check passed for service notification-service
+2026-06-15 17:38:26 ERROR Unable to acquire lock on resource lock-373
+2026-06-18 17:38:27 INFO Request GET /api/v1/checkout completed in 3681 ms
+2026-06-17 17:38:28 INFO New session created for user frank
+2026-06-16 17:38:29 INFO Configuration reloaded successfully
+2026-06-15 17:39:30 INFO Configuration reloaded successfully
+2026-06-15 17:39:31 INFO Scheduled job cleanup finished without errors
+2026-06-17 17:39:32 WARN Retry attempt 5 for connection to billing-service
+2026-06-16 17:39:33 INFO User heidi logged in successfully from 10.0.65.128
+2026-06-16 17:39:34 INFO Background worker worker-5 started processing queue
+2026-06-16 17:39:35 WARN Cache miss rate elevated for region ap-south
+2026-06-18 17:39:36 INFO Request DELETE /api/v1/products completed in 3831 ms
+2026-06-16 17:39:37 DEBUG Cache lookup for key key-8704 returned miss
+2026-06-17 17:39:38 INFO New session created for user frank
+2026-06-17 17:39:39 INFO Cache warmed for region us-east
+2026-06-15 17:40:40 WARN Connection pool for billing-service running low on available connections
+2026-06-17 17:40:41 DEBUG Thread pool size adjusted to 2
+2026-06-17 17:40:42 WARN Cache miss rate elevated for region ap-south
+2026-06-15 17:40:43 INFO Cache warmed for region us-east
+2026-06-17 17:40:44 INFO Health check passed for service inventory-service
+2026-06-17 17:40:45 ERROR Authentication failed for user erin from 10.0.181.163
+2026-06-17 17:40:46 DEBUG Cache lookup for key key-4095 returned hit
+2026-06-17 17:40:47 ERROR Failed to connect to database at cache-node-03
+2026-06-16 17:40:48 WARN Deprecated endpoint /api/v1/login called by client 10.0.218.27
+2026-06-17 17:40:49 INFO Cache warmed for region eu-central
+2026-06-15 17:41:50 INFO Health check passed for service auth-service
+2026-06-16 17:41:51 DEBUG Thread pool size adjusted to 2
+2026-06-15 17:41:52 INFO Scheduled job report-gen finished without errors
+2026-06-18 17:41:53 INFO Scheduled job index-rebuild finished without errors
+2026-06-15 17:41:54 INFO Scheduled job cleanup finished without errors
+2026-06-16 17:41:55 INFO Configuration reloaded successfully
+2026-06-16 17:41:56 INFO Cache warmed for region eu-central
+2026-06-15 17:41:57 ERROR Timeout waiting for response from service inventory-service
+2026-06-17 17:41:58 ERROR Null pointer exception in module InventorySync
+2026-06-16 17:41:59 WARN Deprecated endpoint /api/v1/orders called by client 10.0.16.37
+2026-06-17 17:42:00 INFO Cache warmed for region us-east
+2026-06-15 17:42:01 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-16 17:42:02 INFO Health check passed for service inventory-service
+2026-06-16 17:42:03 WARN Deprecated endpoint /api/v1/users called by client 10.0.126.45
+2026-06-15 17:42:04 ERROR Timeout waiting for response from service billing-service
+2026-06-18 17:42:05 DEBUG Entering method PaymentValidator.process() with payload size 2245
+2026-06-18 17:42:06 INFO User heidi logged in successfully from 10.0.3.90
+2026-06-18 17:42:07 DEBUG Serialized response object for request /api/v1/orders
+2026-06-16 17:42:08 INFO Request GET /api/v1/checkout completed in 1222 ms
+2026-06-17 17:42:09 WARN Retry attempt 1 for connection to notification-service
+2026-06-18 17:43:10 ERROR Failed to connect to database at db-primary-01
+2026-06-15 17:43:11 ERROR Unable to acquire lock on resource lock-992
+2026-06-18 17:43:12 FATAL Out of memory error, shutting down worker worker-6
+2026-06-18 17:43:13 INFO Request GET /api/v1/orders completed in 1811 ms
+2026-06-16 17:43:14 DEBUG Serialized response object for request /api/v1/checkout
+2026-06-17 17:43:15 ERROR Failed to connect to database at db-replica-02
+2026-06-18 17:43:16 DEBUG Serialized response object for request /api/v1/login
+2026-06-16 17:43:17 ERROR Null pointer exception in module InventorySync
+2026-06-18 17:43:18 INFO Scheduled job index-rebuild finished without errors
+2026-06-16 17:43:19 INFO Background worker worker-8 started processing queue
+2026-06-15 17:44:20 INFO New session created for user frank
+2026-06-15 17:44:21 ERROR Authentication failed for user erin from 10.0.163.184
+2026-06-18 17:44:22 DEBUG Cache lookup for key key-2276 returned hit
+2026-06-16 17:44:23 WARN Retry attempt 1 for connection to inventory-service
+2026-06-15 17:44:24 WARN Deprecated endpoint /api/v1/products called by client 10.0.112.105
+2026-06-15 17:44:25 INFO Scheduled job cleanup finished without errors
+2026-06-15 17:44:26 INFO New session created for user erin
+2026-06-15 17:44:27 WARN Disk usage on db-replica-02 approaching threshold
+2026-06-18 17:44:28 INFO Configuration reloaded successfully
+2026-06-16 17:44:29 INFO Health check passed for service auth-service
+2026-06-18 17:45:30 INFO User heidi logged in successfully from 10.0.22.196
+2026-06-17 17:45:31 INFO Cache warmed for region us-east
+2026-06-18 17:45:32 WARN Connection pool for payment-gateway running low on available connections
+2026-06-17 17:45:33 WARN Deprecated endpoint /api/v1/users called by client 10.0.110.99
+2026-06-16 17:45:34 DEBUG Entering method PaymentValidator.process() with payload size 6509
+2026-06-15 17:45:35 INFO Health check passed for service notification-service
+2026-06-16 17:45:36 INFO Request POST /api/v1/login completed in 679 ms
+2026-06-15 17:45:37 WARN Cache miss rate elevated for region us-west
+2026-06-17 17:45:38 WARN Retry attempt 4 for connection to inventory-service
+2026-06-16 17:45:39 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-17 17:46:40 DEBUG Cache lookup for key key-5423 returned hit
+2026-06-16 17:46:41 INFO Health check passed for service inventory-service
+2026-06-17 17:46:42 WARN Deprecated endpoint /api/v1/login called by client 10.0.35.207
+2026-06-18 17:46:43 DEBUG Cache lookup for key key-6477 returned hit
+2026-06-18 17:46:44 INFO Configuration reloaded successfully
+2026-06-15 17:46:45 DEBUG Thread pool size adjusted to 3
+2026-06-17 17:46:46 INFO User bob logged in successfully from 10.0.125.236
+2026-06-15 17:46:47 INFO Cache warmed for region us-east
+2026-06-15 17:46:48 INFO Scheduled job index-rebuild finished without errors
+2026-06-16 17:46:49 FATAL Out of memory error, shutting down worker worker-7
+2026-06-16 17:47:50 WARN Disk usage on cache-node-03 approaching threshold
+2026-06-15 17:47:51 INFO Cache warmed for region us-west
+2026-06-15 17:47:52 DEBUG Thread pool size adjusted to 3
+2026-06-17 17:47:53 ERROR Exception while processing request /api/v1/products from 10.0.61.155
+2026-06-16 17:47:54 DEBUG Entering method UserAuthHandler.process() with payload size 6333
+2026-06-15 17:47:55 ERROR Authentication failed for user dave from 10.0.90.253
+2026-06-17 17:47:56 WARN Cache miss rate elevated for region us-west
+2026-06-17 17:47:57 INFO Scheduled job cleanup finished without errors
+2026-06-16 17:47:58 WARN Cache miss rate elevated for region ap-south
+2026-06-17 17:47:59 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-18 17:48:00 INFO Request PUT /api/v1/orders completed in 917 ms
+2026-06-16 17:48:01 INFO User carol logged in successfully from 10.0.25.174
+2026-06-18 17:48:02 INFO Health check passed for service inventory-service
+2026-06-17 17:48:03 INFO Request GET /api/v1/login completed in 3645 ms
+2026-06-16 17:48:04 WARN Connection pool for auth-service running low on available connections
+2026-06-16 17:48:05 WARN Cache miss rate elevated for region us-west
+2026-06-17 17:48:06 INFO Scheduled job billing-sync finished without errors
+2026-06-17 17:48:07 DEBUG Serialized response object for request /api/v1/login
+2026-06-18 17:48:08 INFO Configuration reloaded successfully
+2026-06-15 17:48:09 INFO Configuration reloaded successfully
+2026-06-15 17:49:10 INFO Configuration reloaded successfully
+2026-06-18 17:49:11 WARN Deprecated endpoint /api/v1/checkout called by client 10.0.188.109
+2026-06-18 17:49:12 INFO Background worker worker-7 started processing queue
+2026-06-18 17:49:13 INFO Cache warmed for region eu-central
+2026-06-18 17:49:14 DEBUG Cache lookup for key key-3562 returned hit
+2026-06-18 17:49:15 INFO Cache warmed for region eu-central
+2026-06-15 17:49:16 INFO Health check passed for service auth-service
+2026-06-16 17:49:17 INFO User frank logged in successfully from 10.0.44.102
+2026-06-17 17:49:18 WARN Deprecated endpoint /api/v1/checkout called by client 10.0.14.132
+2026-06-17 17:49:19 WARN Disk usage on app-server-04 approaching threshold
+2026-06-16 17:50:20 WARN Deprecated endpoint /api/v1/products called by client 10.0.110.72
+2026-06-17 17:50:21 INFO Configuration reloaded successfully
+2026-06-18 17:50:22 INFO Background worker worker-4 started processing queue
+2026-06-15 17:50:23 DEBUG Cache lookup for key key-7056 returned miss
+2026-06-15 17:50:24 FATAL Out of memory error, shutting down worker worker-7
+2026-06-15 17:50:25 INFO New session created for user frank
+2026-06-18 17:50:26 INFO New session created for user dave
+2026-06-15 17:50:27 DEBUG Entering method PaymentValidator.process() with payload size 743
+2026-06-18 17:50:28 ERROR Failed to connect to database at db-primary-01
+2026-06-15 17:50:29 ERROR Unable to acquire lock on resource lock-921
+2026-06-18 17:51:30 DEBUG Serialized response object for request /api/v1/login
+2026-06-15 17:51:31 WARN Connection pool for inventory-service running low on available connections
+2026-06-17 17:51:32 INFO User frank logged in successfully from 10.0.144.233
+2026-06-17 17:51:33 DEBUG Serialized response object for request /api/v1/checkout
+2026-06-17 17:51:34 INFO Configuration reloaded successfully
+2026-06-17 17:51:35 ERROR Failed to connect to database at cache-node-03
+2026-06-17 17:51:36 INFO Request PUT /api/v1/login completed in 261 ms
+2026-06-18 17:51:37 INFO New session created for user grace
+2026-06-15 17:51:38 INFO Cache warmed for region ap-south
+2026-06-16 17:51:39 DEBUG Cache lookup for key key-4700 returned hit
+2026-06-17 17:52:40 WARN Cache miss rate elevated for region us-west
+2026-06-15 17:52:41 INFO New session created for user heidi
+2026-06-15 17:52:42 WARN Cache miss rate elevated for region us-west
+2026-06-17 17:52:43 FATAL Out of memory error, shutting down worker worker-8
+2026-06-15 17:52:44 INFO Health check passed for service billing-service
+2026-06-17 17:52:45 INFO User carol logged in successfully from 10.0.12.151
+2026-06-18 17:52:46 INFO Cache warmed for region us-east
+2026-06-18 17:52:47 INFO New session created for user erin
+2026-06-18 17:52:48 INFO Background worker worker-3 started processing queue
+2026-06-18 17:52:49 ERROR Failed to connect to database at db-primary-01
+2026-06-18 17:53:50 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-18 17:53:51 ERROR Timeout waiting for response from service payment-gateway
+2026-06-18 17:53:52 ERROR Timeout waiting for response from service billing-service
+2026-06-18 17:53:53 DEBUG Cache lookup for key key-4755 returned hit
+2026-06-16 17:53:54 DEBUG Serialized response object for request /api/v1/orders
+2026-06-17 17:53:55 WARN Connection pool for billing-service running low on available connections
+2026-06-16 17:53:56 DEBUG Serialized response object for request /api/v1/products
+2026-06-16 17:53:57 INFO New session created for user bob
+2026-06-18 17:53:58 WARN Disk usage on app-server-04 approaching threshold
+2026-06-18 17:53:59 INFO Cache warmed for region eu-central
+2026-06-18 17:54:00 ERROR Exception while processing request /api/v1/checkout from 10.0.30.49
+2026-06-15 17:54:01 WARN Cache miss rate elevated for region ap-south
+2026-06-15 17:54:02 INFO Scheduled job cleanup finished without errors
+2026-06-16 17:54:03 INFO Configuration reloaded successfully
+2026-06-18 17:54:04 DEBUG Thread pool size adjusted to 3
+2026-06-16 17:54:05 INFO Background worker worker-8 started processing queue
+2026-06-18 17:54:06 INFO Health check passed for service billing-service
+2026-06-18 17:54:07 INFO User grace logged in successfully from 10.0.219.249
+2026-06-16 17:54:08 WARN Disk usage on app-server-04 approaching threshold
+2026-06-18 17:54:09 INFO Configuration reloaded successfully
+2026-06-16 17:55:10 INFO Background worker worker-7 started processing queue
+2026-06-17 17:55:11 INFO User frank logged in successfully from 10.0.26.17
+2026-06-15 17:55:12 INFO Cache warmed for region ap-south
+2026-06-18 17:55:13 ERROR Authentication failed for user bob from 10.0.145.123
+2026-06-18 17:55:14 INFO Configuration reloaded successfully
+2026-06-18 17:55:15 ERROR Authentication failed for user alice from 10.0.181.93
+2026-06-15 17:55:16 ERROR Null pointer exception in module InventorySync
+2026-06-18 17:55:17 INFO Background worker worker-1 started processing queue
+2026-06-17 17:55:18 ERROR Unable to acquire lock on resource lock-435
+2026-06-15 17:55:19 INFO New session created for user erin
+2026-06-16 17:56:20 INFO New session created for user bob
+2026-06-15 17:56:21 INFO Scheduled job index-rebuild finished without errors
+2026-06-17 17:56:22 ERROR Timeout waiting for response from service payment-gateway
+2026-06-16 17:56:23 INFO Health check passed for service auth-service
+2026-06-18 17:56:24 WARN Retry attempt 1 for connection to billing-service
+2026-06-18 17:56:25 INFO New session created for user frank
+2026-06-15 17:56:26 INFO User alice logged in successfully from 10.0.247.131
+2026-06-16 17:56:27 INFO Background worker worker-7 started processing queue
+2026-06-18 17:56:28 INFO Background worker worker-2 started processing queue
+2026-06-15 17:56:29 ERROR Null pointer exception in module OrderProcessor
+2026-06-17 17:57:30 INFO User heidi logged in successfully from 10.0.176.135
+2026-06-15 17:57:31 INFO Health check passed for service notification-service
+2026-06-18 17:57:32 DEBUG Cache lookup for key key-3928 returned miss
+2026-06-16 17:57:33 INFO New session created for user heidi
+2026-06-16 17:57:34 INFO Request POST /api/v1/login completed in 1379 ms
+2026-06-17 17:57:35 WARN Disk usage on cache-node-03 approaching threshold
+2026-06-15 17:57:36 DEBUG Cache lookup for key key-4960 returned hit
+2026-06-16 17:57:37 WARN Retry attempt 3 for connection to auth-service
+2026-06-17 17:57:38 ERROR Timeout waiting for response from service notification-service
+2026-06-18 17:57:39 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-17 17:58:40 INFO Scheduled job report-gen finished without errors
+2026-06-16 17:58:41 INFO Configuration reloaded successfully
+2026-06-15 17:58:42 INFO New session created for user bob
+2026-06-18 17:58:43 ERROR Exception while processing request /api/v1/users from 10.0.251.122
+2026-06-18 17:58:44 INFO Configuration reloaded successfully
+2026-06-18 17:58:45 INFO Health check passed for service auth-service
+2026-06-16 17:58:46 ERROR Authentication failed for user dave from 10.0.86.63
+2026-06-18 17:58:47 INFO New session created for user dave
+2026-06-16 17:58:48 INFO Configuration reloaded successfully
+2026-06-15 17:58:49 WARN Cache miss rate elevated for region ap-south
+2026-06-18 17:59:50 INFO Health check passed for service auth-service
+2026-06-18 17:59:51 WARN Connection pool for inventory-service running low on available connections
+2026-06-16 17:59:52 INFO Scheduled job billing-sync finished without errors
+2026-06-15 17:59:53 INFO Configuration reloaded successfully
+2026-06-16 17:59:54 INFO Scheduled job billing-sync finished without errors
+2026-06-18 17:59:55 INFO Cache warmed for region ap-south
+2026-06-18 17:59:56 INFO User heidi logged in successfully from 10.0.8.211
+2026-06-15 17:59:57 INFO New session created for user dave
+2026-06-16 17:59:58 INFO Request PUT /api/v1/orders completed in 830 ms
+2026-06-15 17:59:59 DEBUG Serialized response object for request /api/v1/products
+2026-06-15 18:00:00 INFO New session created for user heidi
+2026-06-15 18:00:01 INFO Scheduled job billing-sync finished without errors
+2026-06-16 18:00:02 DEBUG Cache lookup for key key-1428 returned miss
+2026-06-16 18:00:03 DEBUG Entering method UserAuthHandler.process() with payload size 2387
+2026-06-18 18:00:04 INFO Scheduled job report-gen finished without errors
+2026-06-17 18:00:05 INFO New session created for user dave
+2026-06-18 18:00:06 INFO Background worker worker-4 started processing queue
+2026-06-15 18:00:07 INFO Health check passed for service billing-service
+2026-06-17 18:00:08 INFO User bob logged in successfully from 10.0.132.140
+2026-06-17 18:00:09 INFO Background worker worker-4 started processing queue
+2026-06-15 18:01:10 DEBUG Cache lookup for key key-8473 returned miss
+2026-06-18 18:01:11 INFO Configuration reloaded successfully
+2026-06-18 18:01:12 INFO Scheduled job billing-sync finished without errors
+2026-06-17 18:01:13 INFO User erin logged in successfully from 10.0.214.187
+2026-06-15 18:01:14 INFO User dave logged in successfully from 10.0.19.137
+2026-06-17 18:01:15 INFO Health check passed for service auth-service
+2026-06-18 18:01:16 WARN Cache miss rate elevated for region us-east
+2026-06-16 18:01:17 WARN Slow query detected on table inventory taking 1493 ms
+2026-06-17 18:01:18 INFO User grace logged in successfully from 10.0.105.174
+2026-06-16 18:01:19 INFO Scheduled job cleanup finished without errors
+2026-06-18 18:02:20 WARN Slow query detected on table orders taking 94 ms
+2026-06-18 18:02:21 INFO Health check passed for service inventory-service
+2026-06-15 18:02:22 WARN Deprecated endpoint /api/v1/checkout called by client 10.0.118.212
+2026-06-17 18:02:23 INFO Cache warmed for region ap-south
+2026-06-17 18:02:24 INFO Configuration reloaded successfully
+2026-06-17 18:02:25 WARN Slow query detected on table orders taking 1092 ms
+2026-06-15 18:02:26 INFO Request PUT /api/v1/login completed in 33 ms
+2026-06-16 18:02:27 INFO Configuration reloaded successfully
+2026-06-18 18:02:28 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-15 18:02:29 WARN Slow query detected on table orders taking 3980 ms
+2026-06-16 18:03:30 DEBUG Thread pool size adjusted to 5
+2026-06-15 18:03:31 INFO Cache warmed for region ap-south
+2026-06-17 18:03:32 INFO Cache warmed for region us-west
+2026-06-18 18:03:33 INFO Cache warmed for region us-east
+2026-06-15 18:03:34 INFO Cache warmed for region us-west
+2026-06-18 18:03:35 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-18 18:03:36 INFO Scheduled job index-rebuild finished without errors
+2026-06-15 18:03:37 INFO New session created for user carol
+2026-06-15 18:03:38 INFO Cache warmed for region ap-south
+2026-06-17 18:03:39 INFO Scheduled job billing-sync finished without errors
+2026-06-16 18:04:40 INFO Cache warmed for region us-east
+2026-06-16 18:04:41 INFO User heidi logged in successfully from 10.0.238.43
+2026-06-17 18:04:42 INFO Health check passed for service auth-service
+2026-06-15 18:04:43 INFO Request POST /api/v1/orders completed in 3162 ms
+2026-06-16 18:04:44 INFO User alice logged in successfully from 10.0.69.210
+2026-06-16 18:04:45 ERROR Failed to connect to database at app-server-04
+2026-06-18 18:04:46 INFO Health check passed for service billing-service
+2026-06-17 18:04:47 INFO Request PUT /api/v1/users completed in 1269 ms
+2026-06-16 18:04:48 INFO New session created for user frank
+2026-06-18 18:04:49 WARN Deprecated endpoint /api/v1/login called by client 10.0.241.139
+2026-06-18 18:05:50 DEBUG Thread pool size adjusted to 5
+2026-06-17 18:05:51 INFO Cache warmed for region eu-central
+2026-06-18 18:05:52 WARN Retry attempt 1 for connection to notification-service
+2026-06-18 18:05:53 ERROR Authentication failed for user heidi from 10.0.52.249
+2026-06-15 18:05:54 WARN Cache miss rate elevated for region eu-central
+2026-06-15 18:05:55 INFO Request POST /api/v1/login completed in 1592 ms
+2026-06-16 18:05:56 WARN Deprecated endpoint /api/v1/login called by client 10.0.48.138
+2026-06-15 18:05:57 DEBUG Cache lookup for key key-5241 returned hit
+2026-06-18 18:05:58 WARN Connection pool for auth-service running low on available connections
+2026-06-18 18:05:59 INFO Request DELETE /api/v1/users completed in 3722 ms
+2026-06-18 18:06:00 INFO Cache warmed for region ap-south
+2026-06-16 18:06:01 ERROR Authentication failed for user dave from 10.0.251.219
+2026-06-16 18:06:02 INFO Health check passed for service notification-service
+2026-06-15 18:06:03 ERROR Timeout waiting for response from service notification-service
+2026-06-17 18:06:04 WARN Slow query detected on table payments taking 2276 ms
+2026-06-16 18:06:05 INFO Background worker worker-3 started processing queue
+2026-06-16 18:06:06 WARN Disk usage on cache-node-03 approaching threshold
+2026-06-15 18:06:07 INFO Configuration reloaded successfully
+2026-06-18 18:06:08 ERROR Exception while processing request /api/v1/products from 10.0.49.155
+2026-06-18 18:06:09 INFO User carol logged in successfully from 10.0.70.77
+2026-06-15 18:07:10 INFO User grace logged in successfully from 10.0.184.195
+2026-06-16 18:07:11 INFO Background worker worker-7 started processing queue
+2026-06-18 18:07:12 INFO Scheduled job cleanup finished without errors
+2026-06-17 18:07:13 INFO Health check passed for service notification-service
+2026-06-17 18:07:14 INFO Request POST /api/v1/users completed in 373 ms
+2026-06-15 18:07:15 ERROR Timeout waiting for response from service inventory-service
+2026-06-15 18:07:16 INFO Request PUT /api/v1/users completed in 3555 ms
+2026-06-16 18:07:17 WARN Deprecated endpoint /api/v1/checkout called by client 10.0.89.162
+2026-06-17 18:07:18 INFO Scheduled job billing-sync finished without errors
+2026-06-15 18:07:19 DEBUG Entering method InventorySync.process() with payload size 7747
+2026-06-15 18:08:20 INFO Health check passed for service notification-service
+2026-06-15 18:08:21 ERROR Timeout waiting for response from service billing-service
+2026-06-17 18:08:22 INFO User heidi logged in successfully from 10.0.17.122
+2026-06-15 18:08:23 INFO User bob logged in successfully from 10.0.3.240
+2026-06-16 18:08:24 INFO Scheduled job report-gen finished without errors
+2026-06-18 18:08:25 INFO Background worker worker-3 started processing queue
+2026-06-17 18:08:26 INFO Health check passed for service inventory-service
+2026-06-15 18:08:27 INFO Cache warmed for region us-west
+2026-06-15 18:08:28 INFO Health check passed for service billing-service
+2026-06-15 18:08:29 ERROR Authentication failed for user heidi from 10.0.20.240
+2026-06-16 18:09:30 INFO New session created for user bob
+2026-06-16 18:09:31 INFO Health check passed for service billing-service
+2026-06-17 18:09:32 INFO User dave logged in successfully from 10.0.70.244
+2026-06-16 18:09:33 ERROR Failed to connect to database at cache-node-03
+2026-06-15 18:09:34 ERROR Unable to acquire lock on resource lock-248
+2026-06-18 18:09:35 DEBUG Thread pool size adjusted to 4
+2026-06-16 18:09:36 INFO New session created for user frank
+2026-06-17 18:09:37 FATAL Out of memory error, shutting down worker worker-2
+2026-06-17 18:09:38 INFO Scheduled job cleanup finished without errors
+2026-06-15 18:09:39 DEBUG Entering method OrderProcessor.process() with payload size 7564
+2026-06-15 18:10:40 INFO Scheduled job cleanup finished without errors
+2026-06-15 18:10:41 INFO Scheduled job report-gen finished without errors
+2026-06-17 18:10:42 FATAL Out of memory error, shutting down worker worker-5
+2026-06-18 18:10:43 INFO User heidi logged in successfully from 10.0.244.84
+2026-06-15 18:10:44 WARN Slow query detected on table users taking 1169 ms
+2026-06-15 18:10:45 WARN Connection pool for payment-gateway running low on available connections
+2026-06-18 18:10:46 ERROR Unable to acquire lock on resource lock-297
+2026-06-16 18:10:47 INFO New session created for user heidi
+2026-06-18 18:10:48 WARN Cache miss rate elevated for region us-west
+2026-06-17 18:10:49 DEBUG Entering method OrderProcessor.process() with payload size 3253
+2026-06-16 18:11:50 DEBUG Serialized response object for request /api/v1/products
+2026-06-16 18:11:51 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-17 18:11:52 DEBUG Serialized response object for request /api/v1/users
+2026-06-18 18:11:53 ERROR Null pointer exception in module UserAuthHandler
+2026-06-17 18:11:54 INFO Cache warmed for region eu-central
+2026-06-15 18:11:55 WARN Deprecated endpoint /api/v1/login called by client 10.0.24.17
+2026-06-17 18:11:56 INFO Cache warmed for region us-west
+2026-06-15 18:11:57 INFO User heidi logged in successfully from 10.0.119.254
+2026-06-16 18:11:58 INFO Scheduled job report-gen finished without errors
+2026-06-15 18:11:59 WARN Slow query detected on table users taking 300 ms
+2026-06-17 18:12:00 INFO Cache warmed for region ap-south
+2026-06-18 18:12:01 WARN Retry attempt 2 for connection to billing-service
+2026-06-15 18:12:02 INFO Configuration reloaded successfully
+2026-06-16 18:12:03 WARN Slow query detected on table inventory taking 2565 ms
+2026-06-17 18:12:04 DEBUG Entering method PaymentValidator.process() with payload size 123
+2026-06-15 18:12:05 INFO User bob logged in successfully from 10.0.206.46
+2026-06-16 18:12:06 DEBUG Serialized response object for request /api/v1/login
+2026-06-17 18:12:07 INFO Background worker worker-8 started processing queue
+2026-06-16 18:12:08 INFO Cache warmed for region us-east
+2026-06-16 18:12:09 INFO Cache warmed for region eu-central
+2026-06-15 18:13:10 ERROR Authentication failed for user heidi from 10.0.122.105
+2026-06-15 18:13:11 DEBUG Serialized response object for request /api/v1/products
+2026-06-18 18:13:12 ERROR Authentication failed for user grace from 10.0.236.173
+2026-06-15 18:13:13 DEBUG Thread pool size adjusted to 1
+2026-06-17 18:13:14 ERROR Timeout waiting for response from service notification-service
+2026-06-18 18:13:15 INFO New session created for user erin
+2026-06-17 18:13:16 DEBUG Thread pool size adjusted to 3
+2026-06-15 18:13:17 DEBUG Thread pool size adjusted to 3
+2026-06-16 18:13:18 ERROR Timeout waiting for response from service notification-service
+2026-06-16 18:13:19 WARN Retry attempt 2 for connection to billing-service
+2026-06-15 18:14:20 INFO Request POST /api/v1/orders completed in 959 ms
+2026-06-15 18:14:21 DEBUG Thread pool size adjusted to 3
+2026-06-15 18:14:22 INFO Health check passed for service billing-service
+2026-06-18 18:14:23 INFO New session created for user heidi
+2026-06-16 18:14:24 ERROR Null pointer exception in module OrderProcessor
+2026-06-18 18:14:25 ERROR Authentication failed for user heidi from 10.0.10.169
+2026-06-16 18:14:26 INFO Health check passed for service auth-service
+2026-06-18 18:14:27 INFO New session created for user bob
+2026-06-17 18:14:28 INFO Health check passed for service payment-gateway
+2026-06-16 18:14:29 ERROR Null pointer exception in module OrderProcessor
+2026-06-18 18:15:30 INFO Health check passed for service notification-service
+2026-06-17 18:15:31 WARN Slow query detected on table inventory taking 1225 ms
+2026-06-16 18:15:32 ERROR Null pointer exception in module UserAuthHandler
+2026-06-16 18:15:33 INFO Background worker worker-7 started processing queue
+2026-06-17 18:15:34 ERROR Exception while processing request /api/v1/orders from 10.0.80.25
+2026-06-15 18:15:35 INFO Scheduled job billing-sync finished without errors
+2026-06-18 18:15:36 ERROR Timeout waiting for response from service billing-service
+2026-06-18 18:15:37 WARN Deprecated endpoint /api/v1/products called by client 10.0.6.88
+2026-06-18 18:15:38 WARN Connection pool for inventory-service running low on available connections
+2026-06-17 18:15:39 WARN Retry attempt 1 for connection to auth-service
+2026-06-15 18:16:40 DEBUG Thread pool size adjusted to 2
+2026-06-15 18:16:41 ERROR Failed to connect to database at cache-node-03
+2026-06-18 18:16:42 INFO New session created for user dave
+2026-06-17 18:16:43 INFO Scheduled job cleanup finished without errors
+2026-06-16 18:16:44 DEBUG Cache lookup for key key-1948 returned miss
+2026-06-16 18:16:45 INFO Configuration reloaded successfully
+2026-06-16 18:16:46 WARN Cache miss rate elevated for region ap-south
+2026-06-16 18:16:47 ERROR Failed to connect to database at app-server-04
+2026-06-15 18:16:48 INFO Request POST /api/v1/login completed in 3171 ms
+2026-06-15 18:16:49 DEBUG Cache lookup for key key-1638 returned hit
+2026-06-17 18:17:50 INFO New session created for user alice
+2026-06-18 18:17:51 ERROR Exception while processing request /api/v1/orders from 10.0.72.189
+2026-06-18 18:17:52 INFO Configuration reloaded successfully
+2026-06-18 18:17:53 INFO Cache warmed for region us-west
+2026-06-15 18:17:54 INFO Request PUT /api/v1/products completed in 2507 ms
+2026-06-18 18:17:55 DEBUG Entering method UserAuthHandler.process() with payload size 5403
+2026-06-18 18:17:56 INFO Background worker worker-1 started processing queue
+2026-06-18 18:17:57 INFO Request PUT /api/v1/checkout completed in 1903 ms
+2026-06-16 18:17:58 INFO New session created for user frank
+2026-06-17 18:17:59 WARN Disk usage on app-server-04 approaching threshold
+2026-06-15 18:18:00 INFO Background worker worker-1 started processing queue
+2026-06-16 18:18:01 INFO Request DELETE /api/v1/login completed in 947 ms
+2026-06-17 18:18:02 ERROR Null pointer exception in module OrderProcessor
+2026-06-18 18:18:03 WARN Deprecated endpoint /api/v1/checkout called by client 10.0.199.195
+2026-06-15 18:18:04 INFO Request DELETE /api/v1/orders completed in 2647 ms
+2026-06-18 18:18:05 ERROR Authentication failed for user alice from 10.0.89.234
+2026-06-18 18:18:06 WARN Cache miss rate elevated for region ap-south
+2026-06-18 18:18:07 INFO Configuration reloaded successfully
+2026-06-15 18:18:08 WARN Connection pool for payment-gateway running low on available connections
+2026-06-17 18:18:09 WARN Connection pool for notification-service running low on available connections
+2026-06-15 18:19:10 ERROR Timeout waiting for response from service payment-gateway
+2026-06-17 18:19:11 INFO User frank logged in successfully from 10.0.208.223
+2026-06-17 18:19:12 INFO Configuration reloaded successfully
+2026-06-17 18:19:13 INFO Configuration reloaded successfully
+2026-06-15 18:19:14 INFO User frank logged in successfully from 10.0.223.30
+2026-06-15 18:19:15 INFO Background worker worker-3 started processing queue
+2026-06-16 18:19:16 ERROR Unable to acquire lock on resource lock-355
+2026-06-17 18:19:17 INFO Configuration reloaded successfully
+2026-06-18 18:19:18 INFO Configuration reloaded successfully
+2026-06-18 18:19:19 INFO Request PUT /api/v1/products completed in 2359 ms
+2026-06-15 18:20:20 ERROR Failed to connect to database at db-replica-02
+2026-06-18 18:20:21 INFO User alice logged in successfully from 10.0.60.89
+2026-06-16 18:20:22 INFO Configuration reloaded successfully
+2026-06-15 18:20:23 WARN Connection pool for notification-service running low on available connections
+2026-06-16 18:20:24 INFO Configuration reloaded successfully
+2026-06-18 18:20:25 INFO Configuration reloaded successfully
+2026-06-15 18:20:26 INFO Request DELETE /api/v1/orders completed in 1624 ms
+2026-06-17 18:20:27 INFO Request POST /api/v1/products completed in 2036 ms
+2026-06-18 18:20:28 INFO Request DELETE /api/v1/orders completed in 3741 ms
+2026-06-16 18:20:29 WARN Retry attempt 2 for connection to inventory-service
+2026-06-17 18:21:30 INFO Configuration reloaded successfully
+2026-06-16 18:21:31 INFO Background worker worker-3 started processing queue
+2026-06-15 18:21:32 INFO Background worker worker-5 started processing queue
+2026-06-17 18:21:33 INFO Scheduled job index-rebuild finished without errors
+2026-06-16 18:21:34 WARN Slow query detected on table orders taking 3598 ms
+2026-06-16 18:21:35 WARN Retry attempt 5 for connection to notification-service
+2026-06-17 18:21:36 ERROR Timeout waiting for response from service payment-gateway
+2026-06-18 18:21:37 INFO Configuration reloaded successfully
+2026-06-17 18:21:38 ERROR Failed to connect to database at app-server-04
+2026-06-17 18:21:39 INFO Background worker worker-8 started processing queue
+2026-06-16 18:22:40 WARN Retry attempt 1 for connection to payment-gateway
+2026-06-15 18:22:41 INFO User heidi logged in successfully from 10.0.232.158
+2026-06-18 18:22:42 WARN Connection pool for inventory-service running low on available connections
+2026-06-16 18:22:43 ERROR Null pointer exception in module InventorySync
+2026-06-15 18:22:44 ERROR Exception while processing request /api/v1/login from 10.0.66.12
+2026-06-16 18:22:45 DEBUG Cache lookup for key key-9682 returned hit
+2026-06-18 18:22:46 WARN Retry attempt 4 for connection to notification-service
+2026-06-16 18:22:47 WARN Connection pool for auth-service running low on available connections
+2026-06-18 18:22:48 INFO Background worker worker-4 started processing queue
+2026-06-16 18:22:49 INFO Request POST /api/v1/orders completed in 3838 ms
+2026-06-18 18:23:50 FATAL Out of memory error, shutting down worker worker-2
+2026-06-18 18:23:51 FATAL Out of memory error, shutting down worker worker-3
+2026-06-18 18:23:52 INFO User erin logged in successfully from 10.0.92.160
+2026-06-18 18:23:53 DEBUG Cache lookup for key key-4101 returned hit
+2026-06-17 18:23:54 DEBUG Entering method PaymentValidator.process() with payload size 1763
+2026-06-18 18:23:55 INFO Cache warmed for region eu-central
+2026-06-16 18:23:56 WARN Slow query detected on table payments taking 1719 ms
+2026-06-18 18:23:57 WARN Slow query detected on table users taking 400 ms
+2026-06-17 18:23:58 INFO Configuration reloaded successfully
+2026-06-18 18:23:59 DEBUG Serialized response object for request /api/v1/products
+2026-06-15 18:24:00 DEBUG Thread pool size adjusted to 2
+2026-06-18 18:24:01 INFO Configuration reloaded successfully
+2026-06-15 18:24:02 WARN Connection pool for billing-service running low on available connections
+2026-06-18 18:24:03 INFO Background worker worker-8 started processing queue
+2026-06-15 18:24:04 ERROR Timeout waiting for response from service auth-service
+2026-06-16 18:24:05 DEBUG Cache lookup for key key-5005 returned miss
+2026-06-18 18:24:06 WARN Disk usage on cache-node-03 approaching threshold
+2026-06-18 18:24:07 DEBUG Thread pool size adjusted to 3
+2026-06-15 18:24:08 ERROR Authentication failed for user carol from 10.0.249.26
+2026-06-17 18:24:09 WARN Cache miss rate elevated for region us-east
+2026-06-16 18:25:10 INFO Background worker worker-7 started processing queue
+2026-06-18 18:25:11 INFO Background worker worker-4 started processing queue
+2026-06-15 18:25:12 WARN Connection pool for notification-service running low on available connections
+2026-06-15 18:25:13 INFO Cache warmed for region ap-south
+2026-06-18 18:25:14 INFO Request POST /api/v1/checkout completed in 1496 ms
+2026-06-18 18:25:15 ERROR Exception while processing request /api/v1/users from 10.0.96.223
+2026-06-16 18:25:16 WARN Connection pool for notification-service running low on available connections
+2026-06-15 18:25:17 INFO Background worker worker-4 started processing queue
+2026-06-15 18:25:18 INFO Health check passed for service inventory-service
+2026-06-16 18:25:19 INFO Cache warmed for region us-east
+2026-06-18 18:26:20 WARN Cache miss rate elevated for region us-west
+2026-06-18 18:26:21 WARN Disk usage on db-primary-01 approaching threshold
+2026-06-16 18:26:22 INFO Configuration reloaded successfully
+2026-06-16 18:26:23 DEBUG Serialized response object for request /api/v1/login
+2026-06-16 18:26:24 INFO Cache warmed for region us-east
+2026-06-16 18:26:25 ERROR Null pointer exception in module OrderProcessor
+2026-06-17 18:26:26 INFO Cache warmed for region us-west
+2026-06-16 18:26:27 INFO Cache warmed for region us-west
+2026-06-16 18:26:28 INFO Configuration reloaded successfully
+2026-06-16 18:26:29 WARN Deprecated endpoint /api/v1/login called by client 10.0.7.17
+2026-06-16 18:27:30 ERROR Failed to connect to database at cache-node-03
+2026-06-17 18:27:31 INFO Health check passed for service payment-gateway
+2026-06-17 18:27:32 INFO Request PUT /api/v1/users completed in 1660 ms
+2026-06-15 18:27:33 WARN Deprecated endpoint /api/v1/products called by client 10.0.122.187
+2026-06-18 18:27:34 ERROR Failed to connect to database at app-server-04
+2026-06-18 18:27:35 ERROR Unable to acquire lock on resource lock-578
+2026-06-18 18:27:36 INFO Background worker worker-1 started processing queue
+2026-06-16 18:27:37 ERROR Authentication failed for user heidi from 10.0.27.11
+2026-06-15 18:27:38 INFO New session created for user erin
+2026-06-15 18:27:39 WARN Cache miss rate elevated for region ap-south
+2026-06-17 18:28:40 ERROR Timeout waiting for response from service auth-service
+2026-06-18 18:28:41 INFO Scheduled job index-rebuild finished without errors
+2026-06-18 18:28:42 INFO User heidi logged in successfully from 10.0.200.68
+2026-06-17 18:28:43 INFO Request PUT /api/v1/users completed in 1109 ms
+2026-06-16 18:28:44 WARN Retry attempt 2 for connection to inventory-service
+2026-06-16 18:28:45 INFO New session created for user carol
+2026-06-15 18:28:46 WARN Cache miss rate elevated for region us-west
+2026-06-15 18:28:47 INFO Cache warmed for region us-east
+2026-06-15 18:28:48 ERROR Authentication failed for user erin from 10.0.100.46
+2026-06-16 18:28:49 WARN Connection pool for payment-gateway running low on available connections
+2026-06-17 18:29:50 ERROR Exception while processing request /api/v1/orders from 10.0.240.39
+2026-06-15 18:29:51 WARN Cache miss rate elevated for region us-west
+2026-06-18 18:29:52 INFO Health check passed for service inventory-service
+2026-06-15 18:29:53 INFO Cache warmed for region ap-south
+2026-06-17 18:29:54 INFO Scheduled job index-rebuild finished without errors
+2026-06-15 18:29:55 INFO Scheduled job report-gen finished without errors
+2026-06-18 18:29:56 INFO Configuration reloaded successfully
+2026-06-18 18:29:57 ERROR Timeout waiting for response from service inventory-service
+2026-06-16 18:29:58 FATAL Out of memory error, shutting down worker worker-8
+2026-06-18 18:29:59 INFO User grace logged in successfully from 10.0.205.184
